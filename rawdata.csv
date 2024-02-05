@@ -1,0 +1,515 @@
+Injury_Location,Gender,Age_Group,Incident_Type,Days_Lost,Plant,Report_Type,Shift,Department,Incident_Cost,WkDay,Month,Year
+Multiple,Male,25-34,Burn,2,Iowa,Near Miss,Afternoon,Painting,188,Thr,1,2020
+Eye,Male,35-49,Vehicle,0.5,Alabama,Lost Time,Day,Fabrication,3367,Eye,1,2021
+Eye,Male,18-24,Cut,4,Georgia,Near Miss,Day,Administration,1555,Mon,1,2024
+Legs,Female,50+,Falling object,1,Iowa,Near Miss,Day,Painting,1765,Mon,3,2023
+Legs,Male,25-34,Lifting,1,Ohio,Near Miss,Day,Painting,710,Mon,1,2020
+Eye,Female,50+,Crush & Pinch,2,Georgia,First Aid,Afternoon,Security,984,Wed,1,2023
+Neck,Male,25-34,Crush & Pinch,3.5,Iowa,Lost Time,Day,Purchasing,4872,Neck,4,2020
+Feet,Male,35-49,Burn,1.5,California,Lost Time,Night,Administration,1248,Feet,10,2022
+Eye,Male,18-24,Fall,4,Florida,First Aid,Afternoon,Maintenance,1586,Tue,9,2021
+Arms,Male,50+,Crush & Pinch,4.5,Florida,Lost Time,Afternoon,Administration,2525,Arms,1,2020
+Eye,Female,35-49,Falling object,4,Iowa,First Aid,Night,Shipping,153,Thr,6,2024
+Neck,Male,35-49,Crush & Pinch,3,Alabama,Medical Claim,Afternoon,Shipping,1678,Thr,10,2020
+Eye,Male,35-49,Vehicle,3,Florida,Medical Claim,Day,Finishing,1029,Fri,11,2022
+Eye,Male,50+,Burn,1,Texas,Medical Claim,Day,Maintenance,1167,Fri,12,2024
+Eye,Male,35-49,Burn,3,Georgia,First Aid,Night,Finishing,1764,Tue,10,2023
+Back,Male,50+,Cut,3,Ohio,First Aid,Day,Shipping,1905,Mon,5,2020
+Arms,Male,18-24,Burn,2,Montana,Near Miss,Afternoon,Maintenance,1264,Thr,10,2024
+Hands,Male,35-49,Fall,3,California,Medical Claim,Day,Melting,604,Wed,4,2022
+Multiple,Male,50+,Crush & Pinch,3,Illinois,First Aid,Night,Painting,1201,Fri,12,2021
+Arms,Male,35-49,Fall,4,Ohio,Lost Time,Night,Maintenance,1196,Arms,9,2021
+Head,Male,18-24,Lifting,1,Montana,Near Miss,Night,Shipping,106,Fri,6,2022
+Feet,Male,35-49,Crush & Pinch,3,Montana,First Aid,Afternoon,Melting,906,Mon,5,2022
+Head,Male,25-34,Equipment,4.5,Florida,Lost Time,Afternoon,Shipping,3784,Head,4,2022
+Feet,Male,35-49,Burn,1.5,Texas,Lost Time,Day,Melting,4414,Feet,5,2022
+Head,Male,35-49,Slip/trip,2.5,Ohio,Lost Time,Afternoon,Security,2790,Head,10,2021
+Eye,Male,25-34,Slip/trip,2,Illinois,First Aid,Afternoon,Administration,910,Fri,4,2022
+Hands,Male,50+,Fall,4,Montana,Lost Time,Afternoon,Finishing,4743,Hands,8,2024
+Eye,Male,50+,Burn,4.5,Illinois,Lost Time,Night,Finishing,3417,Eye,1,2022
+Legs,Male,25-34,Crush & Pinch,4,Alabama,Medical Claim,Night,Painting,718,Mon,2,2023
+Abdomen,Male,25-34,Equipment,2,Georgia,Near Miss,Night,Shipping,1209,Fri,9,2020
+Abdomen,Male,50+,Slip/trip,2,California,First Aid,Day,Fabrication,1575,Fri,4,2020
+Multiple,Female,35-49,Fall,2,Ohio,Lost Time,Night,Maintenance,2544,Multiple,10,2021
+Multiple,Female,35-49,Equipment,4,Montana,Medical Claim,Day,Administration,1252,Fri,12,2021
+Back,Male,25-34,Slip/trip,3,California,Near Miss,Afternoon,Fabrication,113,Mon,7,2020
+Eye,Male,25-34,Equipment,3,Georgia,Medical Claim,Afternoon,Fabrication,1971,Fri,6,2022
+Neck,Male,50+,Equipment,1,Texas,Medical Claim,Night,Maintenance,963,Thr,12,2020
+Back,Male,50+,Lifting,5,Montana,Lost Time,Night,Fabrication,4969,Back,1,2022
+Trunk,Male,18-24,Fall,1,Montana,First Aid,Afternoon,Shipping,273,Fri,10,2022
+Eye,Male,35-49,Burn,1,Iowa,Near Miss,Afternoon,Shipping,298,Mon,11,2023
+Eye,Male,50+,Crush & Pinch,2.5,Florida,Lost Time,Day,Maintenance,4718,Eye,10,2023
+Eye,Male,25-34,Burn,2,Ohio,Near Miss,Night,Shipping,836,Mon,7,2023
+Head,Male,18-24,Cut,4,Montana,First Aid,Day,Shipping,1190,Tue,2,2020
+Feet,Male,18-24,Fall,3,Alabama,First Aid,Night,Administration,684,Wed,9,2020
+Arms,Male,35-49,Cut,1,Ohio,Near Miss,Day,Maintenance,1086,Fri,8,2021
+Neck,Female,18-24,Fall,3,Florida,Medical Claim,Day,Administration,617,Wed,8,2021
+Abdomen,Male,25-34,Slip/trip,4.5,Iowa,Lost Time,Day,Fabrication,3146,Abdomen,3,2020
+Eye,Male,35-49,Lifting,4,Montana,Near Miss,Day,Security,190,Fri,11,2022
+Back,Male,35-49,Falling object,1,Ohio,Medical Claim,Night,Melting,1589,Thr,4,2021
+Multiple,Male,35-49,Falling object,3,Florida,Near Miss,Afternoon,Finishing,637,Wed,1,2023
+Legs,Male,18-24,Burn,4,California,First Aid,Night,Painting,356,Tue,8,2024
+Trunk,Male,25-34,Equipment,4,Illinois,First Aid,Afternoon,Melting,796,Wed,8,2020
+Back,Male,25-34,Vehicle,4,Montana,Medical Claim,Day,Finishing,1225,Mon,5,2024
+Arms,Male,35-49,Falling object,4.5,Montana,Lost Time,Day,Administration,450,Arms,4,2020
+Eye,Male,18-24,Slip/trip,4,Illinois,Medical Claim,Night,Finishing,1727,Tue,10,2024
+Legs,Male,25-34,Lifting,2,Ohio,First Aid,Night,Purchasing,632,Tue,12,2022
+Eye,Male,25-34,Fall,2,Ohio,First Aid,Night,Maintenance,1581,Wed,5,2024
+Eye,Female,50+,Vehicle,4.5,Alabama,Lost Time,Night,Fabrication,1152,Eye,12,2021
+Legs,Male,18-24,Slip/trip,3,Illinois,Near Miss,Day,Finishing,840,Fri,1,2023
+Back,Male,50+,Burn,2,Texas,First Aid,Night,Purchasing,748,Wed,4,2020
+Arms,Male,50+,Fall,1,Montana,Near Miss,Night,Finishing,1645,Thr,6,2024
+Back,Male,35-49,Falling object,1.5,Illinois,Lost Time,Afternoon,Shipping,4731,Back,10,2023
+Eye,Male,50+,Burn,1,Iowa,First Aid,Afternoon,Painting,175,Mon,12,2022
+Abdomen,Male,25-34,Crush & Pinch,3,Georgia,Lost Time,Night,Administration,3425,Abdomen,1,2021
+Neck,Male,25-34,Burn,1,Alabama,Near Miss,Night,Administration,1098,Tue,6,2024
+Arms,Male,18-24,Cut,3,California,Lost Time,Night,Fabrication,2627,Arms,1,2020
+Head,Female,18-24,Vehicle,4,Texas,Lost Time,Afternoon,Shipping,3680,Head,10,2020
+Legs,Male,35-49,Vehicle,1,Iowa,First Aid,Day,Administration,988,Thr,2,2021
+Legs,Male,18-24,Equipment,1,Iowa,Near Miss,Afternoon,Security,1348,Thr,2,2020
+Back,Male,18-24,Lifting,1,Montana,Lost Time,Day,Maintenance,3954,Back,2,2021
+Eye,Female,50+,Equipment,3,Montana,Near Miss,Day,Purchasing,1645,Wed,5,2022
+Trunk,Female,18-24,Slip/trip,2,California,Near Miss,Day,Purchasing,120,Wed,12,2021
+Legs,Male,25-34,Lifting,3,Illinois,Medical Claim,Day,Maintenance,1527,Fri,2,2022
+Head,Male,25-34,Cut,3,Illinois,Medical Claim,Day,Administration,1946,Mon,12,2022
+Feet,Male,50+,Burn,4,Florida,First Aid,Night,Finishing,109,Tue,7,2023
+Neck,Male,18-24,Lifting,4,Florida,Lost Time,Night,Finishing,3969,Neck,8,2020
+Arms,Male,18-24,Burn,1,Alabama,First Aid,Night,Administration,460,Wed,1,2023
+Neck,Male,50+,Crush & Pinch,1,Ohio,Lost Time,Night,Melting,1173,Neck,7,2021
+Eye,Male,35-49,Fall,3,Alabama,First Aid,Afternoon,Maintenance,1637,Tue,7,2023
+Trunk,Male,35-49,Lifting,4,Iowa,Near Miss,Day,Administration,340,Thr,3,2021
+Feet,Male,35-49,Crush & Pinch,1.5,Montana,Lost Time,Night,Maintenance,1592,Feet,3,2021
+Abdomen,Male,50+,Slip/trip,4,Georgia,Near Miss,Night,Shipping,276,Thr,3,2020
+Feet,Male,50+,Fall,2,Montana,Near Miss,Afternoon,Melting,1909,Fri,6,2023
+Neck,Male,35-49,Cut,3,Illinois,First Aid,Night,Maintenance,1480,Fri,4,2020
+Eye,Male,35-49,Cut,4,Ohio,Near Miss,Day,Security,1419,Tue,3,2022
+Head,Male,18-24,Fall,3,Ohio,First Aid,Afternoon,Security,937,Thr,11,2023
+Hands,Male,25-34,Crush & Pinch,3,Georgia,First Aid,Night,Administration,1460,Fri,9,2021
+Back,Male,35-49,Falling object,3,Illinois,Near Miss,Afternoon,Security,1359,Wed,12,2023
+Trunk,Male,35-49,Falling object,1,Ohio,First Aid,Day,Melting,214,Fri,10,2021
+Neck,Male,50+,Lifting,1,Montana,Near Miss,Afternoon,Administration,1860,Wed,1,2020
+Head,Male,25-34,Crush & Pinch,0.5,Florida,Lost Time,Afternoon,Purchasing,2468,Head,5,2022
+Arms,Male,35-49,Burn,0.5,California,Lost Time,Afternoon,Finishing,786,Arms,12,2022
+Eye,Male,18-24,Lifting,2,Alabama,Medical Claim,Day,Administration,749,Wed,6,2021
+Arms,Male,25-34,Burn,0.5,California,Lost Time,Day,Shipping,674,Arms,9,2020
+Head,Male,50+,Crush & Pinch,3,Alabama,Near Miss,Night,Purchasing,1273,Fri,5,2023
+Legs,Male,35-49,Lifting,2,Alabama,Near Miss,Afternoon,Shipping,1195,Mon,7,2024
+Feet,Male,50+,Slip/trip,3,Georgia,Near Miss,Afternoon,Shipping,391,Thr,2,2020
+Legs,Male,25-34,Equipment,1,Georgia,Near Miss,Night,Shipping,234,Wed,2,2023
+Back,Male,18-24,Equipment,2.5,Ohio,Lost Time,Night,Shipping,2370,Back,12,2021
+Hands,Male,35-49,Falling object,2,California,Medical Claim,Night,Purchasing,584,Thr,6,2024
+Eye,Male,18-24,Slip/trip,1,California,Medical Claim,Day,Maintenance,450,Thr,2,2022
+Legs,Male,18-24,Lifting,2,Illinois,First Aid,Day,Painting,917,Thr,9,2022
+Multiple,Male,18-24,Burn,1,Illinois,First Aid,Night,Shipping,602,Wed,2,2020
+Feet,Male,18-24,Falling object,1,Georgia,Medical Claim,Day,Maintenance,422,Tue,3,2023
+Head,Female,25-34,Falling object,4,California,Medical Claim,Day,Fabrication,623,Mon,3,2020
+Hands,Male,25-34,Slip/trip,4,Montana,Medical Claim,Afternoon,Maintenance,515,Tue,10,2022
+Legs,Male,50+,Crush & Pinch,4,Iowa,Near Miss,Afternoon,Administration,1737,Wed,7,2022
+Back,Male,35-49,Slip/trip,3,Montana,Medical Claim,Afternoon,Shipping,300,Mon,7,2022
+Feet,Female,25-34,Equipment,2,Alabama,Lost Time,Day,Melting,1635,Feet,6,2023
+Trunk,Male,18-24,Crush & Pinch,4,Florida,Near Miss,Night,Security,742,Wed,4,2024
+Neck,Male,18-24,Slip/trip,5,Alabama,Lost Time,Day,Security,603,Neck,6,2023
+Neck,Male,50+,Lifting,1,Alabama,Medical Claim,Afternoon,Finishing,159,Fri,5,2023
+Neck,Female,50+,Equipment,3,Ohio,First Aid,Day,Melting,1164,Mon,2,2021
+Neck,Male,18-24,Burn,2,Illinois,Lost Time,Day,Security,3203,Neck,9,2020
+Back,Male,25-34,Slip/trip,1,Illinois,Medical Claim,Day,Maintenance,475,Tue,9,2021
+Abdomen,Male,25-34,Crush & Pinch,1,Florida,Medical Claim,Afternoon,Melting,1996,Mon,2,2022
+Arms,Male,18-24,Falling object,1,Alabama,Lost Time,Night,Administration,3256,Arms,1,2023
+Trunk,Male,25-34,Cut,4,Iowa,Lost Time,Night,Finishing,2861,Trunk,11,2023
+Eye,Male,18-24,Slip/trip,2,Montana,First Aid,Night,Melting,1033,Thr,7,2021
+Neck,Male,50+,Equipment,3.5,Ohio,Lost Time,Day,Maintenance,3716,Neck,10,2024
+Abdomen,Male,18-24,Crush & Pinch,2,Montana,Near Miss,Day,Finishing,1816,Mon,1,2021
+Head,Male,35-49,Lifting,4,Alabama,Near Miss,Night,Maintenance,1497,Thr,12,2020
+Feet,Male,35-49,Cut,1,Iowa,Medical Claim,Night,Maintenance,1489,Thr,9,2022
+Back,Male,18-24,Equipment,2,Alabama,Near Miss,Night,Painting,832,Wed,4,2020
+Trunk,Male,18-24,Lifting,4,Alabama,Near Miss,Day,Fabrication,393,Thr,5,2021
+Neck,Male,25-34,Equipment,5,Texas,Lost Time,Night,Melting,4281,Neck,2,2023
+Head,Male,25-34,Burn,3,Montana,Medical Claim,Day,Melting,1185,Mon,9,2024
+Head,Male,18-24,Equipment,3,California,Medical Claim,Night,Purchasing,1409,Thr,3,2024
+Neck,Male,50+,Equipment,2,California,Lost Time,Night,Security,2777,Neck,4,2021
+Abdomen,Male,35-49,Lifting,3,Illinois,Lost Time,Night,Shipping,4940,Abdomen,2,2022
+Neck,Female,35-49,Falling object,4,Ohio,Near Miss,Night,Shipping,1915,Thr,9,2021
+Neck,Male,25-34,Crush & Pinch,1,Florida,Near Miss,Afternoon,Administration,1078,Mon,6,2023
+Multiple,Male,35-49,Slip/trip,4,Illinois,Medical Claim,Day,Painting,634,Wed,8,2024
+Back,Male,35-49,Falling object,2,Georgia,Medical Claim,Day,Maintenance,1201,Fri,4,2023
+Trunk,Male,35-49,Equipment,5,Iowa,Lost Time,Afternoon,Fabrication,1505,Trunk,9,2022
+Feet,Male,35-49,Burn,2,Alabama,Medical Claim,Night,Maintenance,1625,Wed,3,2020
+Legs,Male,25-34,Equipment,4,Georgia,First Aid,Afternoon,Administration,459,Mon,5,2020
+Trunk,Female,25-34,Slip/trip,4,Texas,Near Miss,Day,Melting,1540,Mon,12,2024
+Legs,Male,50+,Vehicle,1,Florida,Near Miss,Afternoon,Finishing,232,Thr,5,2024
+Arms,Male,50+,Burn,4,California,Medical Claim,Afternoon,Fabrication,192,Thr,8,2023
+Feet,Male,35-49,Slip/trip,1,California,Lost Time,Afternoon,Administration,2333,Feet,2,2020
+Trunk,Female,35-49,Cut,2,Montana,Near Miss,Afternoon,Maintenance,711,Thr,3,2022
+Hands,Male,35-49,Fall,3,Georgia,Medical Claim,Afternoon,Fabrication,1867,Thr,12,2024
+Back,Male,35-49,Lifting,4,Georgia,Medical Claim,Night,Security,712,Tue,9,2024
+Arms,Male,35-49,Falling object,5,Montana,Lost Time,Night,Administration,3692,Arms,10,2023
+Trunk,Male,50+,Slip/trip,1,Iowa,First Aid,Night,Administration,1676,Wed,2,2023
+Hands,Female,35-49,Cut,4,Illinois,Near Miss,Night,Painting,905,Wed,1,2023
+Legs,Male,25-34,Slip/trip,4,Montana,Near Miss,Day,Administration,293,Mon,7,2023
+Abdomen,Male,35-49,Slip/trip,2,Florida,Medical Claim,Day,Shipping,1641,Mon,1,2024
+Eye,Male,18-24,Fall,4,Illinois,First Aid,Day,Administration,1961,Thr,2,2022
+Hands,Female,35-49,Lifting,3,California,First Aid,Afternoon,Maintenance,1744,Wed,9,2024
+Legs,Male,35-49,Cut,4,Alabama,Near Miss,Afternoon,Painting,196,Mon,1,2024
+Hands,Female,18-24,Slip/trip,2.5,Ohio,Lost Time,Night,Finishing,3488,Hands,8,2022
+Neck,Female,25-34,Cut,2,Texas,First Aid,Day,Administration,257,Thr,8,2023
+Arms,Male,50+,Fall,1,Alabama,First Aid,Night,Fabrication,775,Fri,4,2021
+Abdomen,Male,35-49,Falling object,1,Illinois,Medical Claim,Day,Maintenance,434,Mon,4,2020
+Neck,Male,18-24,Fall,1.5,Illinois,Lost Time,Night,Security,1230,Neck,5,2023
+Head,Male,50+,Fall,1,Ohio,Near Miss,Night,Melting,215,Thr,7,2022
+Eye,Male,35-49,Cut,1,Montana,Medical Claim,Night,Fabrication,1019,Thr,4,2023
+Feet,Female,35-49,Lifting,4,Texas,Medical Claim,Day,Fabrication,1267,Wed,8,2021
+Feet,Male,25-34,Lifting,2.5,Georgia,Lost Time,Night,Finishing,709,Feet,2,2022
+Legs,Male,18-24,Fall,4,Florida,First Aid,Afternoon,Finishing,1973,Thr,8,2023
+Feet,Male,35-49,Vehicle,4,Iowa,First Aid,Night,Administration,453,Tue,10,2022
+Back,Male,50+,Lifting,1,Ohio,First Aid,Afternoon,Fabrication,200,Tue,2,2021
+Neck,Male,35-49,Cut,1,Georgia,Near Miss,Night,Shipping,1174,Mon,10,2021
+Feet,Male,35-49,Lifting,1,Montana,Lost Time,Day,Security,2237,Feet,2,2024
+Arms,Male,50+,Burn,3,Florida,First Aid,Day,Maintenance,306,Wed,9,2023
+Multiple,Male,35-49,Crush & Pinch,4.5,Iowa,Lost Time,Night,Fabrication,3299,Multiple,8,2020
+Trunk,Male,50+,Slip/trip,4,California,First Aid,Night,Fabrication,1567,Wed,4,2023
+Multiple,Male,18-24,Crush & Pinch,4,Georgia,First Aid,Day,Security,471,Thr,6,2021
+Neck,Male,25-34,Fall,2.5,Ohio,Lost Time,Day,Purchasing,1731,Neck,8,2020
+Abdomen,Male,35-49,Crush & Pinch,1.5,Florida,Lost Time,Afternoon,Fabrication,4823,Abdomen,4,2022
+Abdomen,Male,25-34,Lifting,1,Georgia,First Aid,Night,Fabrication,1242,Thr,3,2024
+Neck,Male,35-49,Burn,2,Iowa,First Aid,Day,Shipping,967,Fri,10,2023
+Abdomen,Male,50+,Slip/trip,4,California,Near Miss,Night,Administration,1052,Wed,5,2023
+Legs,Male,25-34,Vehicle,1,California,Near Miss,Night,Painting,583,Mon,12,2023
+Eye,Male,25-34,Falling object,2,Texas,Near Miss,Day,Security,747,Wed,9,2022
+Hands,Male,25-34,Slip/trip,2,Iowa,Lost Time,Night,Fabrication,3549,Hands,11,2022
+Hands,Male,50+,Equipment,1,Alabama,Medical Claim,Day,Fabrication,1238,Thr,5,2020
+Head,Male,25-34,Burn,4.5,Texas,Lost Time,Night,Maintenance,1935,Head,3,2020
+Neck,Male,35-49,Equipment,2,Ohio,First Aid,Night,Finishing,394,Thr,11,2023
+Multiple,Male,25-34,Lifting,3,Texas,Lost Time,Afternoon,Administration,2397,Multiple,2,2022
+Hands,Male,35-49,Falling object,1.5,Texas,Lost Time,Afternoon,Fabrication,4618,Hands,11,2021
+Multiple,Male,35-49,Burn,1,Georgia,Medical Claim,Day,Finishing,1649,Thr,11,2021
+Hands,Male,18-24,Fall,3,Illinois,Medical Claim,Afternoon,Finishing,1684,Fri,10,2020
+Arms,Male,18-24,Cut,4,Texas,Near Miss,Afternoon,Finishing,1700,Tue,3,2020
+Trunk,Male,35-49,Equipment,4.5,Texas,Lost Time,Night,Fabrication,4411,Trunk,1,2024
+Neck,Male,50+,Slip/trip,1,Texas,Near Miss,Day,Painting,419,Tue,9,2023
+Multiple,Male,50+,Vehicle,1,California,Near Miss,Day,Maintenance,1948,Mon,8,2024
+Legs,Male,35-49,Fall,2,Texas,First Aid,Afternoon,Shipping,1488,Fri,7,2024
+Back,Female,35-49,Burn,1,California,First Aid,Night,Finishing,1599,Wed,10,2024
+Multiple,Male,35-49,Slip/trip,2,Ohio,First Aid,Day,Painting,1365,Thr,8,2022
+Abdomen,Female,25-34,Falling object,5,California,Lost Time,Day,Fabrication,4879,Abdomen,5,2024
+Back,Female,18-24,Lifting,3,Illinois,First Aid,Night,Maintenance,1778,Fri,2,2020
+Abdomen,Female,25-34,Burn,5,Montana,Lost Time,Day,Shipping,2569,Abdomen,3,2024
+Abdomen,Male,35-49,Cut,2,Montana,Near Miss,Day,Security,1279,Tue,11,2020
+Head,Male,25-34,Vehicle,3,Florida,Medical Claim,Day,Painting,1793,Tue,3,2020
+Abdomen,Male,25-34,Burn,4,Iowa,Medical Claim,Day,Melting,881,Mon,2,2021
+Legs,Male,25-34,Slip/trip,3.5,Ohio,Lost Time,Night,Shipping,1806,Legs,5,2023
+Head,Male,50+,Equipment,4,California,Near Miss,Day,Purchasing,1203,Mon,1,2021
+Arms,Female,25-34,Burn,1,Georgia,Lost Time,Afternoon,Maintenance,2877,Arms,3,2020
+Abdomen,Male,25-34,Cut,4,Ohio,Medical Claim,Afternoon,Maintenance,981,Thr,4,2024
+Hands,Male,25-34,Fall,4,Texas,Near Miss,Afternoon,Fabrication,524,Fri,1,2020
+Feet,Male,18-24,Falling object,2.5,California,Lost Time,Afternoon,Shipping,903,Feet,10,2021
+Eye,Male,18-24,Burn,1,Florida,First Aid,Afternoon,Painting,596,Thr,3,2020
+Feet,Male,50+,Equipment,1,Georgia,Medical Claim,Day,Shipping,1447,Mon,3,2022
+Back,Male,18-24,Equipment,5,Texas,Lost Time,Night,Melting,2479,Back,1,2022
+Multiple,Male,18-24,Fall,4,Ohio,Near Miss,Day,Painting,1938,Thr,7,2020
+Head,Male,18-24,Slip/trip,4,Florida,First Aid,Afternoon,Shipping,990,Fri,4,2023
+Abdomen,Male,50+,Equipment,3,Iowa,Medical Claim,Afternoon,Maintenance,598,Thr,12,2023
+Feet,Male,35-49,Burn,3,Montana,Lost Time,Afternoon,Security,3846,Feet,10,2020
+Abdomen,Male,35-49,Crush & Pinch,3,Alabama,Medical Claim,Afternoon,Melting,921,Mon,11,2021
+Back,Male,25-34,Fall,2.5,Illinois,Lost Time,Night,Security,3734,Back,1,2020
+Multiple,Male,18-24,Falling object,2,Ohio,Near Miss,Afternoon,Painting,785,Thr,6,2021
+Hands,Male,25-34,Fall,1,Illinois,Near Miss,Night,Finishing,992,Wed,4,2021
+Back,Male,35-49,Cut,2.5,Illinois,Lost Time,Afternoon,Fabrication,1486,Back,10,2024
+Legs,Male,25-34,Fall,2,Alabama,Near Miss,Night,Security,973,Fri,8,2023
+Eye,Male,25-34,Falling object,3,Georgia,Medical Claim,Day,Security,1838,Tue,8,2023
+Legs,Male,25-34,Burn,4,Illinois,First Aid,Day,Security,374,Wed,11,2022
+Trunk,Male,50+,Burn,1,Ohio,Medical Claim,Afternoon,Purchasing,1486,Fri,7,2024
+Trunk,Male,18-24,Fall,1,Montana,Medical Claim,Day,Finishing,1665,Fri,10,2021
+Abdomen,Male,25-34,Burn,2,Florida,Lost Time,Day,Finishing,3060,Abdomen,5,2021
+Arms,Female,50+,Crush & Pinch,4,Alabama,Medical Claim,Afternoon,Finishing,1349,Thr,7,2023
+Abdomen,Female,25-34,Crush & Pinch,2,Georgia,Medical Claim,Afternoon,Painting,871,Fri,11,2022
+Arms,Male,35-49,Vehicle,1,Florida,Medical Claim,Day,Fabrication,1275,Tue,11,2023
+Arms,Male,35-49,Cut,4,Iowa,Medical Claim,Afternoon,Finishing,463,Tue,5,2020
+Trunk,Male,50+,Falling object,1,Florida,Near Miss,Afternoon,Painting,924,Fri,9,2022
+Back,Male,35-49,Slip/trip,2,Illinois,Near Miss,Night,Maintenance,716,Mon,8,2024
+Legs,Male,25-34,Lifting,4,Texas,Lost Time,Afternoon,Administration,1190,Legs,1,2024
+Trunk,Male,25-34,Fall,2,Florida,Medical Claim,Day,Administration,1901,Mon,11,2024
+Abdomen,Male,25-34,Falling object,1.5,Florida,Lost Time,Night,Shipping,995,Abdomen,6,2024
+Back,Male,25-34,Crush & Pinch,2,Alabama,Lost Time,Day,Administration,2593,Back,2,2022
+Trunk,Male,50+,Lifting,1,Florida,Near Miss,Day,Administration,1968,Tue,3,2022
+Neck,Male,18-24,Falling object,4,Iowa,First Aid,Afternoon,Painting,872,Fri,11,2020
+Head,Male,50+,Vehicle,3,Iowa,Medical Claim,Day,Melting,474,Fri,3,2023
+Trunk,Male,35-49,Burn,4,Texas,Medical Claim,Night,Administration,1283,Wed,11,2021
+Legs,Male,25-34,Fall,4,Iowa,First Aid,Night,Shipping,1234,Fri,4,2022
+Abdomen,Male,50+,Fall,0.5,Illinois,Lost Time,Day,Purchasing,2437,Abdomen,8,2021
+Back,Female,50+,Vehicle,2,Alabama,Near Miss,Day,Painting,1294,Mon,12,2024
+Arms,Male,18-24,Slip/trip,3,Illinois,Medical Claim,Day,Painting,1308,Fri,7,2020
+Neck,Male,50+,Burn,2,Ohio,Medical Claim,Night,Painting,513,Tue,2,2023
+Legs,Male,35-49,Cut,3,Iowa,Medical Claim,Afternoon,Painting,663,Tue,8,2022
+Feet,Male,35-49,Falling object,1,California,First Aid,Afternoon,Melting,637,Thr,12,2023
+Neck,Male,50+,Crush & Pinch,2.5,Alabama,Lost Time,Night,Shipping,1922,Neck,6,2023
+Trunk,Male,18-24,Fall,1,Montana,Medical Claim,Night,Painting,1386,Mon,3,2023
+Feet,Male,50+,Fall,3,Illinois,Near Miss,Night,Fabrication,1894,Fri,1,2020
+Trunk,Male,18-24,Fall,3,Illinois,Near Miss,Night,Melting,166,Thr,3,2023
+Neck,Female,25-34,Slip/trip,2,Florida,Near Miss,Night,Shipping,1525,Fri,10,2023
+Multiple,Male,18-24,Crush & Pinch,2,California,First Aid,Night,Fabrication,853,Thr,4,2023
+Multiple,Male,25-34,Vehicle,4,Texas,Near Miss,Night,Finishing,1472,Fri,4,2024
+Trunk,Male,35-49,Lifting,3,Ohio,Near Miss,Afternoon,Purchasing,1808,Mon,1,2023
+Arms,Male,18-24,Slip/trip,4,Montana,Medical Claim,Day,Security,445,Fri,11,2021
+Back,Male,18-24,Slip/trip,2,Iowa,Near Miss,Afternoon,Purchasing,752,Thr,6,2020
+Arms,Male,50+,Lifting,4,Illinois,Near Miss,Day,Purchasing,968,Fri,3,2024
+Abdomen,Male,18-24,Equipment,4,Texas,Near Miss,Afternoon,Finishing,1870,Fri,4,2021
+Multiple,Male,25-34,Slip/trip,4,Florida,First Aid,Afternoon,Maintenance,959,Mon,1,2023
+Back,Male,25-34,Cut,1.5,Florida,Lost Time,Afternoon,Security,1177,Back,9,2021
+Arms,Male,25-34,Equipment,2,Iowa,First Aid,Night,Finishing,504,Tue,9,2020
+Legs,Female,35-49,Equipment,2,California,First Aid,Night,Painting,1426,Thr,3,2024
+Back,Male,18-24,Slip/trip,1,Texas,Medical Claim,Night,Maintenance,1257,Mon,12,2022
+Abdomen,Male,25-34,Slip/trip,4,Illinois,Medical Claim,Day,Purchasing,1916,Wed,2,2020
+Neck,Male,25-34,Fall,1,Georgia,Near Miss,Afternoon,Painting,1015,Wed,1,2023
+Arms,Male,18-24,Vehicle,1,Illinois,Medical Claim,Night,Security,1936,Fri,9,2024
+Abdomen,Male,35-49,Burn,1.5,Ohio,Lost Time,Afternoon,Maintenance,4781,Abdomen,7,2024
+Feet,Female,25-34,Burn,5,Iowa,Lost Time,Day,Maintenance,4373,Feet,5,2021
+Head,Male,25-34,Slip/trip,0.5,Montana,Lost Time,Afternoon,Shipping,2854,Head,9,2022
+Feet,Female,25-34,Equipment,3,Alabama,First Aid,Afternoon,Melting,1392,Wed,6,2020
+Legs,Male,50+,Burn,1,Texas,Medical Claim,Night,Melting,1676,Tue,8,2020
+Feet,Male,50+,Lifting,1,Illinois,Medical Claim,Afternoon,Finishing,1417,Thr,5,2023
+Neck,Male,35-49,Falling object,3,Texas,Near Miss,Day,Administration,1408,Fri,8,2023
+Eye,Female,18-24,Vehicle,5,Ohio,Lost Time,Night,Melting,1993,Eye,11,2022
+Back,Male,25-34,Vehicle,2,Alabama,Medical Claim,Night,Fabrication,1978,Fri,3,2020
+Eye,Male,25-34,Crush & Pinch,2,Illinois,Near Miss,Day,Shipping,1784,Wed,12,2024
+Back,Female,25-34,Slip/trip,4,Ohio,First Aid,Night,Administration,1963,Fri,6,2023
+Legs,Male,50+,Equipment,5,Illinois,Lost Time,Day,Fabrication,2468,Legs,8,2023
+Arms,Male,25-34,Cut,1,Iowa,Medical Claim,Night,Fabrication,1678,Mon,2,2022
+Legs,Male,50+,Lifting,4,Texas,Medical Claim,Day,Security,880,Mon,12,2021
+Arms,Male,35-49,Equipment,3,Illinois,Medical Claim,Night,Finishing,1259,Tue,11,2020
+Head,Male,50+,Vehicle,4,Georgia,Lost Time,Afternoon,Melting,2705,Head,10,2022
+Trunk,Male,50+,Vehicle,2.5,Illinois,Lost Time,Afternoon,Security,819,Trunk,3,2024
+Eye,Female,25-34,Burn,2,Illinois,Near Miss,Night,Administration,522,Wed,8,2021
+Abdomen,Male,50+,Cut,3,California,First Aid,Night,Purchasing,1383,Tue,7,2023
+Legs,Male,35-49,Lifting,4,Alabama,Medical Claim,Night,Administration,998,Tue,12,2022
+Hands,Male,25-34,Cut,1,Texas,Medical Claim,Day,Purchasing,859,Wed,3,2020
+Legs,Male,50+,Crush & Pinch,4,Iowa,First Aid,Day,Painting,1584,Fri,8,2024
+Multiple,Male,35-49,Falling object,5,Montana,Lost Time,Day,Melting,1119,Multiple,4,2020
+Hands,Male,18-24,Cut,3,Florida,Lost Time,Day,Purchasing,2851,Hands,7,2022
+Arms,Male,50+,Falling object,1,Montana,Near Miss,Night,Purchasing,1556,Mon,5,2021
+Back,Male,35-49,Burn,2,Texas,Medical Claim,Afternoon,Painting,555,Fri,6,2020
+Legs,Male,25-34,Fall,3,Alabama,Lost Time,Day,Purchasing,4303,Legs,3,2022
+Multiple,Male,25-34,Burn,3,Iowa,Medical Claim,Afternoon,Melting,1317,Mon,3,2021
+Arms,Male,25-34,Cut,0.5,Georgia,Lost Time,Day,Administration,1084,Arms,2,2022
+Trunk,Male,35-49,Falling object,3,Ohio,Near Miss,Day,Security,1029,Thr,2,2022
+Hands,Male,18-24,Falling object,1,Georgia,First Aid,Night,Maintenance,121,Wed,5,2021
+Arms,Male,25-34,Cut,3,Montana,Near Miss,Afternoon,Melting,1981,Fri,6,2021
+Multiple,Male,25-34,Vehicle,2,Ohio,Near Miss,Afternoon,Purchasing,204,Mon,6,2024
+Feet,Female,18-24,Equipment,1,Montana,Medical Claim,Afternoon,Shipping,673,Wed,3,2023
+Abdomen,Male,25-34,Falling object,1,California,Near Miss,Day,Melting,267,Wed,12,2024
+Head,Male,35-49,Vehicle,3,Iowa,Near Miss,Afternoon,Painting,1657,Tue,6,2024
+Trunk,Male,25-34,Fall,3,Georgia,First Aid,Night,Administration,930,Mon,12,2024
+Head,Female,50+,Burn,3,Montana,Near Miss,Afternoon,Administration,544,Tue,9,2020
+Feet,Male,18-24,Fall,1,Montana,Near Miss,Afternoon,Painting,479,Thr,7,2022
+Feet,Male,50+,Cut,2,Ohio,Medical Claim,Night,Security,1209,Tue,5,2021
+Neck,Male,25-34,Crush & Pinch,1,Iowa,Lost Time,Afternoon,Finishing,3657,Neck,3,2024
+Feet,Male,35-49,Vehicle,3,California,First Aid,Afternoon,Melting,382,Tue,7,2021
+Trunk,Male,50+,Cut,1,Georgia,Near Miss,Day,Security,1394,Fri,9,2024
+Neck,Male,25-34,Vehicle,3,Ohio,Near Miss,Day,Fabrication,1533,Mon,4,2021
+Hands,Male,25-34,Fall,3,Florida,Medical Claim,Night,Melting,428,Tue,2,2020
+Feet,Male,25-34,Lifting,1,California,Near Miss,Afternoon,Purchasing,382,Tue,6,2023
+Abdomen,Female,18-24,Vehicle,3,California,Lost Time,Afternoon,Security,498,Abdomen,2,2023
+Multiple,Male,50+,Equipment,4.5,Texas,Lost Time,Afternoon,Painting,3170,Multiple,9,2021
+Legs,Male,25-34,Burn,1,Florida,Medical Claim,Day,Painting,926,Fri,11,2023
+Eye,Male,50+,Fall,2,Illinois,First Aid,Day,Shipping,1299,Tue,6,2024
+Arms,Male,18-24,Falling object,3,Alabama,Near Miss,Afternoon,Finishing,1048,Mon,8,2023
+Legs,Male,50+,Equipment,2,Texas,First Aid,Night,Painting,984,Fri,9,2022
+Back,Male,35-49,Burn,4.5,Texas,Lost Time,Night,Purchasing,2651,Back,2,2020
+Head,Male,18-24,Cut,1,Texas,First Aid,Afternoon,Melting,823,Thr,4,2024
+Trunk,Male,50+,Vehicle,4,Texas,Near Miss,Afternoon,Maintenance,1244,Thr,12,2020
+Back,Male,18-24,Fall,2,California,Lost Time,Night,Administration,674,Back,12,2020
+Abdomen,Male,18-24,Burn,4,Texas,Medical Claim,Night,Melting,946,Fri,1,2022
+Eye,Male,35-49,Cut,1.5,Texas,Lost Time,Afternoon,Maintenance,1698,Eye,9,2020
+Multiple,Male,25-34,Burn,1,Montana,Medical Claim,Day,Painting,400,Tue,7,2022
+Back,Male,25-34,Crush & Pinch,4.5,Florida,Lost Time,Night,Security,1694,Back,6,2022
+Hands,Male,50+,Lifting,4,Georgia,Medical Claim,Night,Maintenance,1332,Thr,1,2022
+Legs,Male,35-49,Falling object,2,Georgia,Medical Claim,Day,Finishing,972,Mon,6,2021
+Arms,Male,18-24,Lifting,2,Georgia,Near Miss,Day,Painting,1622,Wed,6,2023
+Abdomen,Male,50+,Burn,2,Alabama,Near Miss,Day,Painting,1415,Fri,5,2024
+Eye,Male,18-24,Fall,4,Georgia,First Aid,Night,Finishing,1882,Fri,1,2021
+Eye,Male,25-34,Falling object,4.5,Georgia,Lost Time,Day,Shipping,3588,Eye,4,2023
+Head,Male,35-49,Vehicle,4,Ohio,First Aid,Day,Fabrication,1391,Thr,6,2021
+Arms,Male,25-34,Lifting,4,Iowa,Near Miss,Day,Painting,1637,Thr,3,2021
+Trunk,Male,25-34,Falling object,3,Illinois,First Aid,Night,Administration,129,Thr,12,2021
+Head,Male,18-24,Fall,4,Alabama,First Aid,Day,Maintenance,1791,Fri,3,2021
+Head,Male,35-49,Lifting,3,Illinois,Medical Claim,Day,Shipping,1794,Thr,4,2024
+Abdomen,Male,50+,Crush & Pinch,4.5,Ohio,Lost Time,Afternoon,Maintenance,738,Abdomen,2,2024
+Back,Male,25-34,Fall,3,Montana,Medical Claim,Day,Painting,1103,Thr,6,2023
+Multiple,Male,25-34,Burn,2,Florida,First Aid,Night,Maintenance,128,Fri,4,2021
+Abdomen,Male,18-24,Burn,3,Georgia,Near Miss,Day,Painting,1411,Fri,9,2020
+Trunk,Male,35-49,Vehicle,3.5,California,Lost Time,Night,Finishing,2466,Trunk,9,2020
+Feet,Male,50+,Falling object,2,Montana,Near Miss,Afternoon,Administration,1607,Mon,11,2020
+Back,Male,18-24,Crush & Pinch,1,Montana,Medical Claim,Night,Melting,1631,Tue,6,2021
+Hands,Male,50+,Crush & Pinch,1,Iowa,Lost Time,Day,Administration,3959,Hands,3,2021
+Multiple,Male,25-34,Fall,2,Ohio,Medical Claim,Afternoon,Melting,1248,Thr,4,2021
+Hands,Male,25-34,Equipment,1.5,Alabama,Lost Time,Day,Security,1241,Hands,2,2021
+Head,Male,25-34,Lifting,1,Ohio,Lost Time,Night,Fabrication,1301,Head,1,2024
+Abdomen,Male,35-49,Equipment,2,Georgia,First Aid,Day,Security,428,Mon,2,2021
+Arms,Male,25-34,Vehicle,1,Montana,Medical Claim,Day,Maintenance,553,Mon,12,2023
+Abdomen,Male,25-34,Slip/trip,3,Montana,Medical Claim,Afternoon,Finishing,1153,Fri,9,2022
+Arms,Male,35-49,Falling object,4,California,First Aid,Afternoon,Melting,202,Wed,2,2021
+Neck,Male,25-34,Falling object,3,Ohio,Lost Time,Afternoon,Fabrication,2937,Neck,10,2023
+Legs,Male,50+,Cut,4,Florida,Near Miss,Day,Administration,1123,Fri,2,2022
+Trunk,Male,18-24,Falling object,1,Ohio,Near Miss,Night,Fabrication,1956,Thr,12,2022
+Abdomen,Male,18-24,Equipment,4,Ohio,First Aid,Afternoon,Security,411,Fri,3,2024
+Hands,Male,35-49,Vehicle,2,Florida,Lost Time,Day,Security,4160,Hands,11,2022
+Trunk,Male,35-49,Cut,4.5,Georgia,Lost Time,Night,Shipping,2988,Trunk,7,2024
+Head,Female,18-24,Slip/trip,2,Texas,Near Miss,Day,Painting,533,Wed,10,2022
+Abdomen,Male,25-34,Crush & Pinch,3.5,Alabama,Lost Time,Afternoon,Painting,1155,Abdomen,10,2023
+Legs,Male,25-34,Fall,4,Ohio,Near Miss,Night,Melting,700,Mon,9,2022
+Back,Male,50+,Vehicle,2,Illinois,Lost Time,Day,Security,1902,Back,11,2024
+Arms,Male,35-49,Vehicle,4,Illinois,Near Miss,Afternoon,Maintenance,265,Fri,2,2020
+Eye,Male,25-34,Burn,2.5,Georgia,Lost Time,Day,Security,3817,Eye,8,2024
+Head,Female,35-49,Burn,4,Texas,Near Miss,Afternoon,Maintenance,1199,Mon,1,2020
+Multiple,Male,25-34,Lifting,4,Georgia,Near Miss,Afternoon,Melting,310,Thr,5,2021
+Multiple,Male,35-49,Equipment,2,Illinois,First Aid,Afternoon,Finishing,867,Wed,12,2021
+Arms,Male,18-24,Cut,1,Ohio,First Aid,Day,Security,440,Thr,2,2020
+Eye,Male,25-34,Cut,2,Georgia,Medical Claim,Afternoon,Shipping,1241,Tue,1,2023
+Multiple,Male,25-34,Falling object,2,Iowa,Near Miss,Day,Fabrication,1808,Wed,1,2022
+Legs,Female,50+,Falling object,2,Texas,Medical Claim,Day,Finishing,839,Mon,10,2021
+Feet,Male,35-49,Falling object,3,Illinois,Near Miss,Day,Maintenance,1308,Thr,3,2021
+Back,Male,35-49,Burn,1,Montana,First Aid,Afternoon,Finishing,286,Mon,12,2023
+Eye,Male,18-24,Equipment,3,Illinois,Near Miss,Night,Security,709,Thr,11,2023
+Legs,Male,50+,Crush & Pinch,4,Georgia,Lost Time,Night,Purchasing,4771,Legs,11,2024
+Trunk,Male,18-24,Slip/trip,3.5,Georgia,Lost Time,Day,Shipping,3378,Trunk,7,2020
+Head,Male,18-24,Lifting,1,Georgia,Medical Claim,Day,Shipping,1421,Mon,3,2024
+Abdomen,Male,25-34,Falling object,2,Florida,Near Miss,Night,Shipping,854,Tue,5,2021
+Abdomen,Male,50+,Cut,2,Texas,Medical Claim,Day,Shipping,1277,Tue,2,2022
+Hands,Female,50+,Cut,2,California,First Aid,Night,Purchasing,1379,Wed,10,2021
+Legs,Male,35-49,Vehicle,4,Georgia,First Aid,Afternoon,Purchasing,1385,Fri,3,2020
+Trunk,Male,25-34,Falling object,3,Alabama,Medical Claim,Afternoon,Painting,259,Wed,2,2022
+Multiple,Female,25-34,Vehicle,2,Montana,Near Miss,Afternoon,Painting,609,Mon,12,2021
+Feet,Male,25-34,Vehicle,1,Florida,Lost Time,Day,Fabrication,2245,Feet,3,2023
+Head,Male,18-24,Crush & Pinch,2,California,First Aid,Afternoon,Purchasing,400,Thr,12,2022
+Feet,Male,18-24,Falling object,1,Florida,Medical Claim,Afternoon,Melting,424,Tue,1,2022
+Hands,Male,35-49,Lifting,1,Montana,Near Miss,Afternoon,Melting,1459,Thr,10,2022
+Multiple,Male,25-34,Crush & Pinch,1,Texas,First Aid,Day,Melting,1192,Fri,12,2020
+Legs,Female,50+,Equipment,4,Texas,Lost Time,Afternoon,Painting,2622,Legs,4,2024
+Trunk,Male,35-49,Vehicle,3.5,California,Lost Time,Day,Melting,1213,Trunk,7,2024
+Legs,Male,35-49,Cut,3,Montana,Near Miss,Afternoon,Security,138,Thr,3,2022
+Legs,Male,25-34,Fall,2,Montana,First Aid,Day,Security,1659,Mon,1,2020
+Legs,Male,35-49,Cut,2,Montana,Medical Claim,Night,Shipping,1496,Mon,1,2021
+Neck,Male,25-34,Lifting,1,Iowa,First Aid,Day,Shipping,473,Tue,10,2020
+Feet,Male,18-24,Lifting,2,Texas,Medical Claim,Day,Finishing,752,Mon,8,2020
+Multiple,Male,35-49,Fall,2,California,Near Miss,Day,Shipping,503,Wed,11,2024
+Trunk,Male,35-49,Lifting,4,Illinois,First Aid,Day,Security,1324,Mon,10,2021
+Head,Male,50+,Cut,3,Illinois,Near Miss,Day,Shipping,168,Tue,10,2021
+Abdomen,Male,50+,Cut,3,Florida,Near Miss,Day,Shipping,877,Wed,7,2020
+Neck,Male,50+,Cut,2,California,Medical Claim,Night,Shipping,160,Thr,11,2020
+Hands,Male,35-49,Slip/trip,3,Iowa,Lost Time,Night,Melting,2015,Hands,8,2022
+Feet,Male,50+,Equipment,4,California,Lost Time,Day,Administration,1793,Feet,7,2021
+Head,Male,18-24,Vehicle,2.5,Illinois,Lost Time,Afternoon,Melting,807,Head,9,2023
+Hands,Female,35-49,Cut,0.5,California,Lost Time,Afternoon,Painting,920,Hands,11,2024
+Back,Male,25-34,Slip/trip,3,Florida,First Aid,Day,Maintenance,1765,Mon,7,2022
+Arms,Male,50+,Slip/trip,1,Georgia,Medical Claim,Night,Painting,1501,Mon,9,2020
+Hands,Male,25-34,Crush & Pinch,1,Iowa,Medical Claim,Day,Melting,1111,Wed,8,2022
+Back,Female,35-49,Fall,4,Ohio,Near Miss,Afternoon,Purchasing,1145,Wed,7,2022
+Feet,Male,25-34,Slip/trip,4,Alabama,Medical Claim,Day,Fabrication,822,Tue,1,2021
+Feet,Male,25-34,Vehicle,2,Georgia,Medical Claim,Night,Maintenance,1361,Thr,7,2022
+Trunk,Male,35-49,Lifting,1,Ohio,First Aid,Afternoon,Shipping,410,Fri,11,2021
+Multiple,Male,18-24,Falling object,1,Alabama,Medical Claim,Night,Finishing,1399,Mon,7,2022
+Hands,Male,18-24,Cut,2,Ohio,Near Miss,Night,Shipping,827,Fri,2,2021
+Eye,Female,50+,Fall,2,Alabama,First Aid,Day,Administration,1011,Tue,4,2023
+Multiple,Male,18-24,Slip/trip,1.5,Florida,Lost Time,Night,Administration,4871,Multiple,8,2024
+Feet,Female,25-34,Lifting,4,Florida,Near Miss,Day,Purchasing,1026,Thr,11,2023
+Arms,Male,50+,Fall,4,Montana,Near Miss,Night,Melting,829,Mon,3,2023
+Head,Male,25-34,Lifting,3,California,Medical Claim,Night,Purchasing,785,Wed,7,2022
+Abdomen,Male,25-34,Fall,4.5,Georgia,Lost Time,Night,Melting,4399,Abdomen,1,2020
+Hands,Male,35-49,Vehicle,2,Texas,First Aid,Afternoon,Painting,978,Wed,4,2024
+Feet,Male,35-49,Cut,1,Alabama,First Aid,Day,Finishing,1927,Tue,3,2020
+Back,Male,50+,Lifting,3,Iowa,Medical Claim,Day,Purchasing,1841,Mon,6,2020
+Legs,Male,25-34,Lifting,3,Florida,Near Miss,Day,Administration,1165,Thr,3,2020
+Head,Male,35-49,Equipment,4,California,Medical Claim,Day,Maintenance,1464,Wed,1,2022
+Head,Male,35-49,Equipment,2,Alabama,First Aid,Night,Painting,642,Mon,7,2021
+Feet,Male,50+,Cut,4,Illinois,Near Miss,Night,Finishing,546,Mon,12,2022
+Multiple,Male,50+,Equipment,1,Florida,Lost Time,Afternoon,Maintenance,3582,Multiple,5,2024
+Head,Male,35-49,Fall,3,California,Near Miss,Night,Security,1012,Mon,8,2022
+Hands,Male,25-34,Slip/trip,4,Iowa,Near Miss,Afternoon,Painting,1537,Thr,3,2022
+Feet,Male,25-34,Crush & Pinch,1.5,Iowa,Lost Time,Night,Fabrication,2459,Feet,4,2020
+Feet,Male,25-34,Cut,4,Texas,First Aid,Day,Purchasing,1823,Mon,7,2024
+Back,Female,35-49,Lifting,4,Alabama,Lost Time,Night,Security,736,Back,11,2022
+Hands,Male,50+,Equipment,2,Texas,Near Miss,Day,Painting,763,Fri,10,2023
+Feet,Male,35-49,Burn,1,Illinois,Near Miss,Night,Shipping,1553,Mon,12,2023
+Feet,Male,50+,Cut,4,Alabama,Medical Claim,Day,Security,601,Tue,5,2022
+Feet,Male,50+,Slip/trip,2,Illinois,First Aid,Day,Maintenance,597,Thr,12,2021
+Neck,Male,50+,Slip/trip,3,Montana,Near Miss,Night,Purchasing,628,Thr,12,2020
+Back,Male,35-49,Burn,1.5,Alabama,Lost Time,Day,Security,998,Back,6,2024
+Back,Male,25-34,Burn,1,Florida,Lost Time,Day,Painting,2170,Back,5,2022
+Multiple,Male,18-24,Equipment,1,Iowa,First Aid,Night,Administration,1190,Thr,8,2022
+Eye,Male,18-24,Burn,3,Alabama,Medical Claim,Afternoon,Purchasing,656,Tue,8,2021
+Head,Male,35-49,Fall,1,Georgia,First Aid,Afternoon,Purchasing,1304,Thr,4,2022
+Hands,Male,25-34,Falling object,4,Ohio,Medical Claim,Night,Administration,1682,Mon,8,2024
+Legs,Male,18-24,Vehicle,4,Florida,Near Miss,Day,Finishing,1487,Mon,8,2022
+Legs,Male,18-24,Lifting,2.5,Florida,Lost Time,Afternoon,Melting,4947,Legs,2,2022
+Eye,Female,35-49,Equipment,5,Ohio,Lost Time,Day,Shipping,1919,Eye,11,2024
+Multiple,Male,35-49,Falling object,4,Texas,Near Miss,Afternoon,Fabrication,1431,Tue,10,2022
+Back,Male,25-34,Falling object,1.5,Alabama,Lost Time,Night,Security,2381,Back,10,2023
+Multiple,Male,50+,Vehicle,1,Georgia,Medical Claim,Afternoon,Security,1124,Thr,10,2024
+Abdomen,Male,18-24,Vehicle,3,Georgia,First Aid,Day,Shipping,605,Fri,5,2020
+Head,Male,50+,Crush & Pinch,1,Georgia,Near Miss,Night,Security,1288,Fri,1,2022
+Back,Male,35-49,Cut,4,Georgia,Lost Time,Night,Fabrication,1392,Back,10,2023
+Feet,Male,50+,Cut,4,Texas,Lost Time,Night,Finishing,540,Feet,1,2021
+Back,Male,50+,Fall,1,Illinois,First Aid,Night,Security,1723,Thr,12,2023
+Multiple,Male,25-34,Lifting,3,Iowa,Medical Claim,Afternoon,Administration,1282,Fri,9,2022
+Hands,Male,25-34,Vehicle,4,Georgia,Near Miss,Night,Security,781,Fri,1,2020
+Multiple,Male,35-49,Lifting,3,Texas,First Aid,Night,Fabrication,145,Fri,11,2024
+Multiple,Male,50+,Falling object,4.5,Montana,Lost Time,Afternoon,Painting,855,Multiple,12,2023
+Trunk,Male,35-49,Slip/trip,3.5,Iowa,Lost Time,Night,Painting,3824,Trunk,6,2023
+Multiple,Male,25-34,Vehicle,1,Alabama,Medical Claim,Night,Shipping,125,Mon,6,2023
+Eye,Female,50+,Crush & Pinch,4,Iowa,Lost Time,Afternoon,Purchasing,1594,Eye,2,2024
+Arms,Male,35-49,Fall,4.5,California,Lost Time,Night,Melting,585,Arms,8,2023
+Back,Male,35-49,Burn,1,Texas,Near Miss,Night,Administration,1413,Mon,9,2022
+Multiple,Female,25-34,Cut,2,Ohio,Medical Claim,Night,Purchasing,1523,Mon,10,2024
+Multiple,Male,35-49,Lifting,1,Illinois,First Aid,Night,Shipping,1555,Thr,6,2024
+Head,Male,35-49,Falling object,4,Montana,First Aid,Night,Security,506,Fri,2,2023
+Neck,Male,35-49,Vehicle,3.5,Texas,Lost Time,Afternoon,Finishing,1769,Neck,6,2023
+Hands,Male,50+,Vehicle,2,Illinois,Near Miss,Afternoon,Security,1053,Tue,6,2024
+Feet,Male,18-24,Equipment,4,Alabama,Lost Time,Afternoon,Shipping,3498,Feet,12,2020
+Legs,Male,25-34,Crush & Pinch,1.5,Texas,Lost Time,Day,Maintenance,2336,Legs,1,2021
+Back,Male,50+,Cut,4,Illinois,First Aid,Night,Painting,406,Tue,11,2023
+Head,Male,18-24,Cut,3,Alabama,First Aid,Afternoon,Finishing,1181,Tue,7,2024
+Head,Male,25-34,Slip/trip,4,California,Medical Claim,Night,Finishing,846,Thr,9,2021
+Back,Male,25-34,Slip/trip,0.5,Ohio,Lost Time,Afternoon,Maintenance,4145,Back,11,2021
+Eye,Male,50+,Slip/trip,3,Texas,Medical Claim,Day,Shipping,130,Thr,5,2022
+Eye,Male,50+,Fall,4,Montana,First Aid,Night,Fabrication,575,Thr,5,2020
+Head,Male,35-49,Fall,3.5,Iowa,Lost Time,Day,Shipping,3134,Head,11,2022
+Eye,Male,18-24,Equipment,4,California,Medical Claim,Night,Painting,1531,Tue,8,2020
+Legs,Male,25-34,Equipment,3.5,Montana,Lost Time,Night,Security,1424,Legs,11,2023
+Back,Male,18-24,Lifting,2,Florida,Lost Time,Day,Maintenance,4908,Back,12,2023
+Back,Male,50+,Fall,3,Montana,First Aid,Afternoon,Finishing,1892,Tue,11,2020
+Arms,Male,35-49,Fall,1,Florida,Medical Claim,Day,Finishing,1604,Thr,11,2021
+Legs,Male,35-49,Equipment,2,Florida,Near Miss,Night,Purchasing,1610,Thr,6,2020
+Arms,Male,18-24,Lifting,2,Montana,Near Miss,Afternoon,Maintenance,926,Wed,2,2024
+Arms,Male,18-24,Slip/trip,1,Ohio,Medical Claim,Afternoon,Shipping,443,Mon,7,2021
+Abdomen,Male,25-34,Burn,1.5,California,Lost Time,Afternoon,Administration,1777,Abdomen,9,2022
+Feet,Male,25-34,Falling object,3,Montana,First Aid,Day,Melting,613,Tue,3,2024
+Arms,Male,35-49,Vehicle,1,Georgia,Near Miss,Night,Maintenance,1984,Wed,8,2022
+Abdomen,Male,25-34,Crush & Pinch,4,Alabama,Medical Claim,Afternoon,Fabrication,1217,Thr,2,2022
+Eye,Male,18-24,Slip/trip,1,Iowa,Near Miss,Day,Shipping,1854,Tue,1,2021
+Feet,Male,25-34,Slip/trip,1,Texas,Medical Claim,Day,Administration,557,Mon,7,2023
+Back,Male,50+,Fall,3,Texas,First Aid,Night,Security,1370,Thr,3,2023
+Head,Male,50+,Slip/trip,2,Ohio,Near Miss,Night,Shipping,1904,Tue,6,2020
+Back,Female,35-49,Vehicle,4,Illinois,Medical Claim,Afternoon,Administration,1123,Wed,11,2020
+Head,Male,18-24,Burn,2,Montana,Near Miss,Day,Fabrication,1550,Mon,9,2021
+Hands,Male,50+,Vehicle,4,Alabama,Near Miss,Afternoon,Melting,907,Mon,11,2022
+Eye,Male,25-34,Slip/trip,2,Montana,First Aid,Day,Shipping,1498,Tue,12,2024
+Eye,Male,50+,Fall,4,Iowa,First Aid,Afternoon,Security,271,Wed,3,2023
+Head,Male,25-34,Falling object,2.5,Florida,Lost Time,Night,Maintenance,4563,Head,11,2023
+Head,Male,35-49,Equipment,3,Montana,First Aid,Afternoon,Administration,425,Fri,8,2021
+Feet,Male,50+,Cut,2,Georgia,Near Miss,Day,Finishing,869,Fri,8,2022
+Back,Male,18-24,Burn,3,Florida,Medical Claim,Day,Melting,188,Tue,4,2024
+Multiple,Male,35-49,Cut,3,Florida,Medical Claim,Night,Fabrication,1463,Tue,4,2021
+Eye,Male,18-24,Equipment,3,Georgia,First Aid,Afternoon,Administration,1231,Tue,1,2023
+Feet,Male,18-24,Burn,1,Illinois,Lost Time,Night,Painting,1449,Feet,2,2023
+Feet,Male,25-34,Fall,3,California,Medical Claim,Afternoon,Painting,1647,Tue,10,2023
+Back,Male,50+,Lifting,4,Alabama,Near Miss,Afternoon,Maintenance,223,Tue,1,2024
+Trunk,Male,18-24,Equipment,2,California,First Aid,Day,Maintenance,1740,Mon,8,2022
+Legs,Male,50+,Burn,3,Georgia,Medical Claim,Afternoon,Finishing,1810,Tue,2,2022
+Back,Male,25-34,Slip/trip,3,Iowa,Near Miss,Day,Purchasing,724,Thr,9,2021
+Abdomen,Male,25-34,Crush & Pinch,1,California,Near Miss,Day,Shipping,709,Tue,4,2023
+Multiple,Female,50+,Slip/trip,2,Florida,Medical Claim,Day,Administration,1675,Tue,3,2020
+Feet,Male,50+,Burn,3,Iowa,Medical Claim,Day,Purchasing,318,Wed,8,2022
+Head,Female,25-34,Crush & Pinch,3,California,First Aid,Night,Administration,1135,Fri,2,2022
+Hands,Male,25-34,Lifting,2,Florida,Near Miss,Afternoon,Melting,551,Fri,7,2021
+Hands,Male,25-34,Cut,2,Florida,Near Miss,Afternoon,Purchasing,701,Mon,7,2024
+Trunk,Male,50+,Falling object,1,Florida,Medical Claim,Night,Administration,1626,Fri,3,2022
+Hands,Male,18-24,Vehicle,3,Texas,Medical Claim,Afternoon,Melting,1824,Mon,6,2023
