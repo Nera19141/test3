@@ -1,0 +1,515 @@
+Date,Injury_Location,Gender,Age_Group,Incident_Type,Days_Lost,Plant,Report_Type,Shift,Department,Incident_Cost,WkDay,Month,Year
+1-Jan-20,Multiple,Male,Below 35,Burn,2,Iowa,Near Miss,Afternoon,Painting,2177,Wed,1,2020
+3-Jan-20,Neck,Male,Below 60,Vehicle,3,Alabama,Lost Time,Day,Fabrication,4533,Fri,1,2020
+3-Jan-20,Eye,Male,Below 35,Cut,3,Georgia,Near Miss,Day,Administration,1597,Fri,1,2020
+4-Jan-20,Legs,Female,Below 35,Falling object,5,Iowa,Near Miss,Day,Painting,523,Sat,1,2020
+7-Jan-20,Legs,Male,Below 35,Lifting,4,Ohio,Near Miss,Day,Painting,1650,Tue,1,2020
+11-Jan-20,Neck,Female,Below 60,Crush & Pinch,5,Georgia,First Aid,Afternoon,Security,2002,Sat,1,2020
+11-Jan-20,Neck,Male,Below 25,Crush & Pinch,2,Iowa,Lost Time,Day,Purchasing,2485,Sat,1,2020
+12-Jan-20,Feet,Male,Below 45,Burn,1,California,Lost Time,Night,Administration,2569,Sun,1,2020
+15-Jan-20,Neck,Male,Below 35,Fall,3,Florida,First Aid,Afternoon,Maintenance,1246,Wed,1,2020
+16-Jan-20,Arms,Male,Below 60,Crush & Pinch,2,Florida,Lost Time,Afternoon,Administration,2035,Thu,1,2020
+18-Jan-20,Neck,Female,Below 25,Falling object,3,Iowa,First Aid,Night,Shipping,862,Sat,1,2020
+23-Jan-20,Neck,Male,Below 25,Crush & Pinch,2,Alabama,Medical Claim,Afternoon,Shipping,2083,Thu,1,2020
+26-Jan-20,Eye,Male,Below 45,Vehicle,5,Florida,Medical Claim,Day,Finishing,4249,Sun,1,2020
+27-Jan-20,Eye,Male,Below 25,Burn,3,Texas,Medical Claim,Day,Maintenance,2044,Mon,1,2020
+27-Jan-20,Eye,Male,Below 45,Burn,4,Georgia,First Aid,Night,Finishing,2660,Mon,1,2020
+27-Jan-20,Back,Male,Below 35,Cut,4,Ohio,First Aid,Day,Shipping,1826,Mon,1,2020
+30-Jan-20,Arms,Male,Below 60,Burn,4,Montana,Near Miss,Afternoon,Maintenance,2712,Thu,1,2020
+30-Jan-20,Hands,Male,Below 60,Fall,2,California,Medical Claim,Day,Melting,1364,Thu,1,2020
+1-Feb-20,Multiple,Male,Below 35,Crush & Pinch,2,Illinois,First Aid,Night,Painting,2395,Sat,2,2020
+3-Feb-20,Arms,Male,Below 60,Fall,3,Ohio,Lost Time,Night,Maintenance,1365,Mon,2,2020
+4-Feb-20,Head,Male,Below 60,Lifting,3,Montana,Near Miss,Night,Shipping,1109,Tue,2,2020
+9-Feb-20,Feet,Male,Below 35,Crush & Pinch,5,Montana,First Aid,Afternoon,Melting,2073,Sun,2,2020
+9-Feb-20,Head,Male,Below 45,Equipment,4,Florida,Lost Time,Afternoon,Shipping,2902,Sun,2,2020
+10-Feb-20,Feet,Male,Below 45,Burn,1,Texas,Lost Time,Day,Melting,2515,Mon,2,2020
+10-Feb-20,Head,Male,Below 45,Slip/trip,2,Ohio,Lost Time,Afternoon,Security,957,Mon,2,2020
+11-Feb-20,Neck,Male,Below 25,Slip/trip,1,Illinois,First Aid,Afternoon,Administration,697,Tue,2,2020
+12-Feb-20,Hands,Male,Below 25,Fall,5,Montana,Lost Time,Afternoon,Finishing,1351,Wed,2,2020
+13-Feb-20,Neck,Male,Below 60,Burn,2,Illinois,Lost Time,Night,Finishing,2553,Thu,2,2020
+13-Feb-20,Legs,Male,Below 25,Crush & Pinch,4,Alabama,Medical Claim,Night,Painting,2263,Thu,2,2020
+14-Feb-20,Abdomen,Male,Below 60,Equipment,2,Georgia,Near Miss,Night,Shipping,2839,Fri,2,2020
+16-Feb-20,Abdomen,Male,Below 45,Slip/trip,2,California,First Aid,Day,Fabrication,1150,Sun,2,2020
+17-Feb-20,Multiple,Female,Below 25,Fall,5,Ohio,Lost Time,Night,Maintenance,1110,Mon,2,2020
+19-Feb-20,Multiple,Female,Below 45,Equipment,1,Montana,Medical Claim,Day,Administration,2818,Wed,2,2020
+20-Feb-20,Back,Male,Below 25,Slip/trip,3,California,Near Miss,Afternoon,Fabrication,659,Thu,2,2020
+22-Feb-20,Neck,Male,Below 25,Equipment,4,Georgia,Medical Claim,Afternoon,Fabrication,2951,Sat,2,2020
+27-Feb-20,Neck,Male,Below 45,Equipment,5,Texas,Medical Claim,Night,Maintenance,2991,Thu,2,2020
+28-Feb-20,Back,Male,Below 35,Lifting,2,Montana,Lost Time,Night,Fabrication,1137,Fri,2,2020
+1-Mar-20,Trunk,Male,Below 25,Fall,3,Montana,First Aid,Afternoon,Shipping,1174,Sun,3,2020
+3-Mar-20,Eye,Male,Below 25,Burn,4,Iowa,Near Miss,Afternoon,Shipping,2193,Tue,3,2020
+3-Mar-20,Neck,Male,Below 45,Crush & Pinch,1,Florida,Lost Time,Day,Maintenance,2102,Tue,3,2020
+6-Mar-20,Eye,Male,Below 25,Burn,3,Ohio,Near Miss,Night,Shipping,2133,Fri,3,2020
+6-Mar-20,Head,Male,Below 60,Cut,2,Montana,First Aid,Day,Shipping,1777,Fri,3,2020
+7-Mar-20,Feet,Male,Below 35,Fall,1,Alabama,First Aid,Night,Administration,1016,Sat,3,2020
+11-Mar-20,Arms,Male,Below 45,Cut,4,Ohio,Near Miss,Day,Maintenance,1903,Wed,3,2020
+12-Mar-20,Neck,Female,Below 35,Fall,1,Florida,Medical Claim,Day,Administration,1189,Thu,3,2020
+17-Mar-20,Abdomen,Male,Below 45,Slip/trip,2,Iowa,Lost Time,Day,Fabrication,1056,Tue,3,2020
+20-Mar-20,Eye,Male,Below 60,Lifting,4,Montana,Near Miss,Day,Security,1088,Fri,3,2020
+21-Mar-20,Back,Male,Below 60,Falling object,5,Ohio,Medical Claim,Night,Melting,757,Sat,3,2020
+23-Mar-20,Multiple,Male,Below 25,Falling object,5,Florida,Near Miss,Afternoon,Finishing,920,Mon,3,2020
+3-Apr-20,Legs,Male,Below 60,Burn,3,California,First Aid,Night,Painting,2239,Fri,4,2020
+4-Apr-20,Trunk,Male,Below 25,Equipment,5,Illinois,First Aid,Afternoon,Melting,2761,Sat,4,2020
+4-Apr-20,Back,Male,Below 60,Vehicle,1,Montana,Medical Claim,Day,Finishing,4522,Sat,4,2020
+4-Apr-20,Arms,Male,Below 35,Falling object,5,Montana,Lost Time,Day,Administration,883,Sat,4,2020
+6-Apr-20,Neck,Male,Below 60,Slip/trip,2,Illinois,Medical Claim,Night,Finishing,1363,Mon,4,2020
+7-Apr-20,Legs,Male,Below 60,Lifting,3,Ohio,First Aid,Night,Purchasing,1135,Tue,4,2020
+12-Apr-20,Neck,Male,Below 60,Fall,2,Ohio,First Aid,Night,Maintenance,1145,Sun,4,2020
+13-Apr-20,Eye,Female,Below 60,Vehicle,3,Alabama,Lost Time,Night,Fabrication,3055,Mon,4,2020
+13-Apr-20,Legs,Male,Below 45,Slip/trip,4,Illinois,Near Miss,Day,Finishing,1272,Mon,4,2020
+14-Apr-20,Back,Male,Below 25,Burn,2,Texas,First Aid,Night,Purchasing,2945,Tue,4,2020
+14-Apr-20,Arms,Male,Below 45,Fall,5,Montana,Near Miss,Night,Finishing,1079,Tue,4,2020
+15-Apr-20,Back,Male,Below 35,Falling object,4,Illinois,Lost Time,Afternoon,Shipping,889,Wed,4,2020
+16-Apr-20,Eye,Male,Below 25,Burn,1,Iowa,First Aid,Afternoon,Painting,2959,Thu,4,2020
+17-Apr-20,Abdomen,Male,Below 60,Crush & Pinch,5,Georgia,Lost Time,Night,Administration,2171,Fri,4,2020
+18-Apr-20,Neck,Male,Below 35,Burn,5,Alabama,Near Miss,Night,Administration,2535,Sat,4,2020
+21-Apr-20,Arms,Male,Below 25,Cut,3,California,Lost Time,Night,Fabrication,1926,Tue,4,2020
+21-Apr-20,Head,Female,Below 25,Vehicle,4,Texas,Lost Time,Afternoon,Shipping,4177,Tue,4,2020
+22-Apr-20,Legs,Male,Below 60,Vehicle,1,Iowa,First Aid,Day,Administration,3200,Wed,4,2020
+22-Apr-20,Legs,Male,Below 25,Equipment,5,Iowa,Near Miss,Afternoon,Security,2813,Wed,4,2020
+24-Apr-20,Back,Male,Below 60,Lifting,1,Montana,Lost Time,Day,Maintenance,1042,Fri,4,2020
+25-Apr-20,Eye,Female,Below 45,Equipment,3,Montana,Near Miss,Day,Purchasing,2922,Sat,4,2020
+27-Apr-20,Trunk,Female,Below 35,Slip/trip,1,California,Near Miss,Day,Purchasing,554,Mon,4,2020
+2-May-20,Legs,Male,Below 45,Lifting,2,Illinois,Medical Claim,Day,Maintenance,1493,Sat,5,2020
+4-May-20,Head,Male,Below 45,Cut,4,Illinois,Medical Claim,Day,Administration,1615,Mon,5,2020
+5-May-20,Feet,Male,Below 60,Burn,4,Florida,First Aid,Night,Finishing,2416,Tue,5,2020
+7-May-20,Neck,Male,Below 25,Lifting,3,Florida,Lost Time,Night,Finishing,1214,Thu,5,2020
+8-May-20,Arms,Male,Below 45,Burn,1,Alabama,First Aid,Night,Administration,2914,Fri,5,2020
+8-May-20,Neck,Male,Below 45,Crush & Pinch,2,Ohio,Lost Time,Night,Melting,2268,Fri,5,2020
+9-May-20,Eye,Male,Below 35,Fall,4,Alabama,First Aid,Afternoon,Maintenance,1383,Sat,5,2020
+10-May-20,Trunk,Male,Below 45,Lifting,3,Iowa,Near Miss,Day,Administration,1003,Sun,5,2020
+10-May-20,Feet,Male,Below 60,Crush & Pinch,4,Montana,Lost Time,Night,Maintenance,2391,Sun,5,2020
+11-May-20,Abdomen,Male,Below 45,Slip/trip,1,Georgia,Near Miss,Night,Shipping,953,Mon,5,2020
+13-May-20,Feet,Male,Below 35,Fall,4,Montana,Near Miss,Afternoon,Melting,1275,Wed,5,2020
+13-May-20,Neck,Male,Below 35,Cut,1,Illinois,First Aid,Night,Maintenance,1885,Wed,5,2020
+17-May-20,Neck,Male,Below 35,Cut,4,Ohio,Near Miss,Day,Security,1800,Sun,5,2020
+17-May-20,Head,Male,Below 25,Fall,2,Ohio,First Aid,Afternoon,Security,1306,Sun,5,2020
+19-May-20,Hands,Male,Below 25,Crush & Pinch,1,Georgia,First Aid,Night,Administration,2430,Tue,5,2020
+21-May-20,Back,Male,Below 25,Falling object,4,Illinois,Near Miss,Afternoon,Security,641,Thu,5,2020
+22-May-20,Trunk,Male,Below 35,Falling object,4,Ohio,First Aid,Day,Melting,500,Fri,5,2020
+23-May-20,Neck,Male,Below 60,Lifting,5,Montana,Near Miss,Afternoon,Administration,1322,Sat,5,2020
+25-May-20,Head,Male,Below 60,Crush & Pinch,2,Florida,Lost Time,Afternoon,Purchasing,2129,Mon,5,2020
+26-May-20,Arms,Male,Below 25,Burn,4,California,Lost Time,Afternoon,Finishing,2031,Tue,5,2020
+26-May-20,Eye,Male,Below 60,Lifting,1,Alabama,Medical Claim,Day,Administration,1415,Tue,5,2020
+29-May-20,Arms,Male,Below 35,Burn,2,California,Lost Time,Day,Shipping,2044,Fri,5,2020
+31-May-20,Head,Male,Below 25,Crush & Pinch,5,Alabama,Near Miss,Night,Purchasing,2067,Sun,5,2020
+31-May-20,Legs,Male,Below 35,Lifting,3,Alabama,Near Miss,Afternoon,Shipping,1005,Sun,5,2020
+2-Jun-20,Feet,Male,Below 35,Slip/trip,4,Georgia,Near Miss,Afternoon,Shipping,765,Tue,6,2020
+7-Jun-20,Legs,Male,Below 35,Equipment,4,Georgia,Near Miss,Night,Shipping,2598,Sun,6,2020
+10-Jun-20,Back,Male,Below 25,Equipment,5,Ohio,Lost Time,Night,Shipping,2717,Wed,6,2020
+11-Jun-20,Hands,Male,Below 45,Falling object,5,California,Medical Claim,Night,Purchasing,873,Thu,6,2020
+12-Jun-20,Eye,Male,Below 60,Slip/trip,5,California,Medical Claim,Day,Maintenance,1273,Fri,6,2020
+15-Jun-20,Legs,Male,Below 45,Lifting,1,Illinois,First Aid,Day,Painting,1178,Mon,6,2020
+15-Jun-20,Multiple,Male,Below 25,Burn,2,Illinois,First Aid,Night,Shipping,2688,Mon,6,2020
+16-Jun-20,Feet,Male,Below 35,Falling object,3,Georgia,Medical Claim,Day,Maintenance,608,Tue,6,2020
+19-Jun-20,Head,Female,Below 35,Falling object,5,California,Medical Claim,Day,Fabrication,1000,Fri,6,2020
+23-Jun-20,Hands,Male,Below 25,Slip/trip,1,Montana,Medical Claim,Afternoon,Maintenance,1372,Tue,6,2020
+26-Jun-20,Legs,Male,Below 25,Crush & Pinch,4,Iowa,Near Miss,Afternoon,Administration,2346,Fri,6,2020
+27-Jun-20,Back,Male,Below 60,Slip/trip,5,Montana,Medical Claim,Afternoon,Shipping,1331,Sat,6,2020
+28-Jun-20,Feet,Female,Below 45,Equipment,5,Alabama,Lost Time,Day,Melting,2711,Sun,6,2020
+30-Jun-20,Trunk,Male,Below 60,Crush & Pinch,4,Florida,Near Miss,Night,Security,2159,Tue,6,2020
+30-Jun-20,Neck,Male,Below 60,Slip/trip,2,Alabama,Lost Time,Day,Security,1421,Tue,6,2020
+1-Jul-20,Neck,Male,Below 35,Lifting,3,Alabama,Medical Claim,Afternoon,Finishing,1119,Wed,7,2020
+6-Jul-20,Neck,Female,Below 60,Equipment,3,Ohio,First Aid,Day,Melting,2568,Mon,7,2020
+6-Jul-20,Neck,Male,Below 60,Burn,2,Illinois,Lost Time,Day,Security,2464,Mon,7,2020
+7-Jul-20,Back,Male,Below 35,Slip/trip,1,Illinois,Medical Claim,Day,Maintenance,541,Tue,7,2020
+10-Jul-20,Abdomen,Male,Below 60,Crush & Pinch,4,Florida,Medical Claim,Afternoon,Melting,2212,Fri,7,2020
+11-Jul-20,Arms,Male,Below 25,Falling object,1,Alabama,Lost Time,Night,Administration,861,Sat,7,2020
+12-Jul-20,Trunk,Male,Below 35,Cut,3,Iowa,Lost Time,Night,Finishing,1786,Sun,7,2020
+12-Jul-20,Eye,Male,Below 60,Slip/trip,2,Montana,First Aid,Night,Melting,1255,Sun,7,2020
+13-Jul-20,Neck,Male,Below 35,Equipment,1,Ohio,Lost Time,Day,Maintenance,2809,Mon,7,2020
+14-Jul-20,Abdomen,Male,Below 60,Crush & Pinch,5,Montana,Near Miss,Day,Finishing,2222,Tue,7,2020
+16-Jul-20,Head,Male,Below 45,Lifting,3,Alabama,Near Miss,Night,Maintenance,1152,Thu,7,2020
+18-Jul-20,Feet,Male,Below 25,Cut,1,Iowa,Medical Claim,Night,Maintenance,1886,Sat,7,2020
+19-Jul-20,Back,Male,Below 45,Equipment,3,Alabama,Near Miss,Night,Painting,2840,Sun,7,2020
+22-Jul-20,Trunk,Male,Below 45,Lifting,3,Alabama,Near Miss,Day,Fabrication,1253,Wed,7,2020
+26-Jul-20,Neck,Male,Below 60,Equipment,4,Texas,Lost Time,Night,Melting,2541,Sun,7,2020
+27-Jul-20,Head,Male,Below 60,Burn,5,Montana,Medical Claim,Day,Melting,2244,Mon,7,2020
+28-Jul-20,Head,Male,Below 45,Equipment,3,California,Medical Claim,Night,Purchasing,2849,Tue,7,2020
+28-Jul-20,Feet,Male,Below 60,Equipment,1,California,Lost Time,Night,Security,2671,Tue,7,2020
+30-Jul-20,Abdomen,Male,Below 35,Lifting,2,Illinois,Lost Time,Night,Shipping,1449,Thu,7,2020
+30-Jul-20,Feet,Female,Below 25,Falling object,3,Ohio,Near Miss,Night,Shipping,962,Thu,7,2020
+1-Aug-20,Neck,Male,Below 35,Crush & Pinch,1,Florida,Near Miss,Afternoon,Administration,2114,Sat,8,2020
+3-Aug-20,Multiple,Male,Below 60,Slip/trip,3,Illinois,Medical Claim,Day,Painting,1300,Mon,8,2020
+4-Aug-20,Back,Male,Below 25,Falling object,1,Georgia,Medical Claim,Day,Maintenance,641,Tue,8,2020
+7-Aug-20,Trunk,Male,Below 35,Equipment,1,Iowa,Lost Time,Afternoon,Fabrication,2967,Fri,8,2020
+9-Aug-20,Feet,Male,Below 60,Burn,3,Alabama,Medical Claim,Night,Maintenance,2959,Sun,8,2020
+9-Aug-20,Legs,Male,Below 60,Equipment,3,Georgia,First Aid,Afternoon,Administration,2841,Sun,8,2020
+10-Aug-20,Trunk,Female,Below 45,Slip/trip,3,Texas,Near Miss,Day,Melting,656,Mon,8,2020
+11-Aug-20,Legs,Male,Below 35,Vehicle,3,Florida,Near Miss,Afternoon,Finishing,3717,Tue,8,2020
+12-Aug-20,Arms,Male,Below 45,Burn,2,California,Medical Claim,Afternoon,Fabrication,2568,Wed,8,2020
+13-Aug-20,Feet,Male,Below 45,Slip/trip,3,California,Lost Time,Afternoon,Administration,717,Thu,8,2020
+13-Aug-20,Trunk,Female,Below 35,Cut,2,Montana,Near Miss,Afternoon,Maintenance,1535,Thu,8,2020
+13-Aug-20,Hands,Male,Below 60,Fall,2,Georgia,Medical Claim,Afternoon,Fabrication,1272,Thu,8,2020
+15-Aug-20,Back,Male,Below 25,Lifting,5,Georgia,Medical Claim,Night,Security,1412,Sat,8,2020
+21-Aug-20,Arms,Male,Below 45,Falling object,2,Montana,Lost Time,Night,Administration,741,Fri,8,2020
+21-Aug-20,Trunk,Male,Below 35,Slip/trip,2,Iowa,First Aid,Night,Administration,1128,Fri,8,2020
+23-Aug-20,Hands,Female,Below 35,Cut,3,Illinois,Near Miss,Night,Painting,1717,Sun,8,2020
+25-Aug-20,Legs,Male,Below 60,Slip/trip,4,Montana,Near Miss,Day,Administration,1378,Tue,8,2020
+26-Aug-20,Abdomen,Male,Below 60,Slip/trip,4,Florida,Medical Claim,Day,Shipping,1394,Wed,8,2020
+27-Aug-20,Eye,Male,Below 45,Fall,5,Illinois,First Aid,Day,Administration,1425,Thu,8,2020
+27-Aug-20,Hands,Female,Below 60,Lifting,2,California,First Aid,Afternoon,Maintenance,1095,Thu,8,2020
+30-Aug-20,Legs,Male,Below 45,Cut,2,Alabama,Near Miss,Afternoon,Painting,1692,Sun,8,2020
+31-Aug-20,Hands,Female,Below 45,Slip/trip,3,Ohio,Lost Time,Night,Finishing,1469,Mon,8,2020
+5-Sep-20,Feet,Female,Below 45,Cut,2,Texas,First Aid,Day,Administration,1561,Sat,9,2020
+6-Sep-20,Arms,Male,Below 25,Fall,1,Alabama,First Aid,Night,Fabrication,1369,Sun,9,2020
+7-Sep-20,Abdomen,Male,Below 25,Falling object,2,Illinois,Medical Claim,Day,Maintenance,616,Mon,9,2020
+11-Sep-20,Neck,Male,Below 25,Fall,2,Illinois,Lost Time,Night,Security,1183,Fri,9,2020
+13-Sep-20,Head,Male,Below 25,Fall,2,Ohio,Near Miss,Night,Melting,1072,Sun,9,2020
+14-Sep-20,Eye,Male,Below 45,Cut,2,Montana,Medical Claim,Night,Fabrication,1955,Mon,9,2020
+16-Sep-20,Feet,Female,Below 25,Lifting,4,Texas,Medical Claim,Day,Fabrication,1137,Wed,9,2020
+22-Sep-20,Feet,Male,Below 35,Lifting,5,Georgia,Lost Time,Night,Finishing,1383,Tue,9,2020
+23-Sep-20,Legs,Male,Below 45,Fall,1,Florida,First Aid,Afternoon,Finishing,1135,Wed,9,2020
+25-Sep-20,Feet,Male,Below 35,Vehicle,1,Iowa,First Aid,Night,Administration,4880,Fri,9,2020
+27-Sep-20,Back,Male,Below 35,Lifting,1,Ohio,First Aid,Afternoon,Fabrication,1284,Sun,9,2020
+30-Sep-20,Feet,Male,Below 45,Cut,2,Georgia,Near Miss,Night,Shipping,1574,Wed,9,2020
+4-Oct-20,Feet,Male,Below 35,Lifting,2,Montana,Lost Time,Day,Security,1000,Sun,10,2020
+9-Oct-20,Arms,Male,Below 35,Burn,5,Florida,First Aid,Day,Maintenance,2800,Fri,10,2020
+11-Oct-20,Multiple,Male,Below 35,Crush & Pinch,4,Iowa,Lost Time,Night,Fabrication,2335,Sun,10,2020
+12-Oct-20,Trunk,Male,Below 45,Slip/trip,4,California,First Aid,Night,Fabrication,633,Mon,10,2020
+12-Oct-20,Multiple,Male,Below 25,Crush & Pinch,2,Georgia,First Aid,Day,Security,2140,Mon,10,2020
+13-Oct-20,Feet,Male,Below 35,Fall,3,Ohio,Lost Time,Day,Purchasing,1231,Tue,10,2020
+13-Oct-20,Feet,Male,Below 35,Crush & Pinch,3,Florida,Lost Time,Afternoon,Fabrication,2032,Tue,10,2020
+14-Oct-20,Abdomen,Male,Below 25,Lifting,2,Georgia,First Aid,Night,Fabrication,1360,Wed,10,2020
+16-Oct-20,Neck,Male,Below 60,Burn,2,Iowa,First Aid,Day,Shipping,2706,Fri,10,2020
+16-Oct-20,Feet,Male,Below 25,Slip/trip,5,California,Near Miss,Night,Administration,1130,Fri,10,2020
+17-Oct-20,Legs,Male,Below 60,Vehicle,2,California,Near Miss,Night,Painting,3294,Sat,10,2020
+19-Oct-20,Eye,Male,Below 25,Falling object,4,Texas,Near Miss,Day,Security,554,Mon,10,2020
+22-Oct-20,Hands,Male,Below 35,Slip/trip,5,Iowa,Lost Time,Night,Fabrication,1361,Thu,10,2020
+24-Oct-20,Hands,Male,Below 60,Equipment,5,Alabama,Medical Claim,Day,Fabrication,2961,Sat,10,2020
+26-Oct-20,Head,Male,Below 25,Burn,5,Texas,Lost Time,Night,Maintenance,2077,Mon,10,2020
+27-Oct-20,Neck,Male,Below 25,Equipment,3,Ohio,First Aid,Night,Finishing,2555,Tue,10,2020
+27-Oct-20,Multiple,Male,Below 25,Lifting,2,Texas,Lost Time,Afternoon,Administration,1118,Tue,10,2020
+30-Oct-20,Hands,Male,Below 35,Falling object,4,Texas,Lost Time,Afternoon,Fabrication,751,Fri,10,2020
+7-Nov-20,Multiple,Male,Below 60,Burn,2,Georgia,Medical Claim,Day,Finishing,2066,Sat,11,2020
+11-Nov-20,Hands,Male,Below 45,Fall,5,Illinois,Medical Claim,Afternoon,Finishing,1245,Wed,11,2020
+12-Nov-20,Arms,Male,Below 25,Cut,5,Texas,Near Miss,Afternoon,Finishing,1997,Thu,11,2020
+15-Nov-20,Trunk,Male,Below 45,Equipment,5,Texas,Lost Time,Night,Fabrication,2599,Sun,11,2020
+16-Nov-20,Neck,Male,Below 60,Slip/trip,1,Texas,Near Miss,Day,Painting,1476,Mon,11,2020
+18-Nov-20,Multiple,Male,Below 25,Vehicle,2,California,Near Miss,Day,Maintenance,3195,Wed,11,2020
+19-Nov-20,Legs,Male,Below 45,Fall,2,Texas,First Aid,Afternoon,Shipping,1453,Thu,11,2020
+20-Nov-20,Back,Female,Below 25,Burn,5,California,First Aid,Night,Finishing,2108,Fri,11,2020
+22-Nov-20,Multiple,Male,Below 60,Slip/trip,3,Ohio,First Aid,Day,Painting,731,Sun,11,2020
+22-Nov-20,Abdomen,Female,Below 25,Falling object,4,California,Lost Time,Day,Fabrication,851,Sun,11,2020
+24-Nov-20,Back,Female,Below 45,Lifting,4,Illinois,First Aid,Night,Maintenance,1444,Tue,11,2020
+25-Nov-20,Abdomen,Female,Below 35,Burn,2,Montana,Lost Time,Day,Shipping,2530,Wed,11,2020
+29-Nov-20,Abdomen,Male,Below 35,Cut,3,Montana,Near Miss,Day,Security,1812,Sun,11,2020
+30-Nov-20,Head,Male,Below 25,Vehicle,5,Florida,Medical Claim,Day,Painting,3801,Mon,11,2020
+30-Nov-20,Feet,Male,Below 45,Burn,3,Iowa,Medical Claim,Day,Melting,2569,Mon,11,2020
+1-Dec-20,Legs,Male,Below 25,Slip/trip,1,Ohio,Lost Time,Night,Shipping,994,Tue,12,2020
+3-Dec-20,Head,Male,Below 60,Equipment,2,California,Near Miss,Day,Purchasing,2608,Thu,12,2020
+4-Dec-20,Arms,Female,Below 25,Burn,4,Georgia,Lost Time,Afternoon,Maintenance,2793,Fri,12,2020
+4-Dec-20,Feet,Male,Below 35,Cut,5,Ohio,Medical Claim,Afternoon,Maintenance,1717,Fri,12,2020
+4-Dec-20,Hands,Male,Below 60,Fall,5,Texas,Near Miss,Afternoon,Fabrication,1491,Fri,12,2020
+6-Dec-20,Feet,Male,Below 45,Falling object,5,California,Lost Time,Afternoon,Shipping,508,Sun,12,2020
+8-Dec-20,Eye,Male,Below 25,Burn,3,Florida,First Aid,Afternoon,Painting,2742,Tue,12,2020
+8-Dec-20,Feet,Male,Below 45,Equipment,4,Georgia,Medical Claim,Day,Shipping,2977,Tue,12,2020
+9-Dec-20,Back,Male,Below 25,Equipment,2,Texas,Lost Time,Night,Melting,2678,Wed,12,2020
+10-Dec-20,Multiple,Male,Below 60,Fall,3,Ohio,Near Miss,Day,Painting,1479,Thu,12,2020
+11-Dec-20,Head,Male,Below 60,Slip/trip,5,Florida,First Aid,Afternoon,Shipping,1320,Fri,12,2020
+12-Dec-20,Abdomen,Male,Below 25,Equipment,1,Iowa,Medical Claim,Afternoon,Maintenance,2835,Sat,12,2020
+16-Dec-20,Feet,Male,Below 45,Burn,5,Montana,Lost Time,Afternoon,Security,2683,Wed,12,2020
+18-Dec-20,Abdomen,Male,Below 60,Crush & Pinch,3,Alabama,Medical Claim,Afternoon,Melting,2255,Fri,12,2020
+23-Dec-20,Back,Male,Below 25,Fall,1,Illinois,Lost Time,Night,Security,1358,Wed,12,2020
+23-Dec-20,Multiple,Male,Below 45,Falling object,3,Ohio,Near Miss,Afternoon,Painting,596,Wed,12,2020
+24-Dec-20,Hands,Male,Below 60,Fall,1,Illinois,Near Miss,Night,Finishing,1359,Thu,12,2020
+25-Dec-20,Back,Male,Below 25,Cut,1,Illinois,Lost Time,Afternoon,Fabrication,1994,Fri,12,2020
+25-Dec-20,Legs,Male,Below 35,Fall,5,Alabama,Near Miss,Night,Security,1470,Fri,12,2020
+27-Dec-20,Eye,Male,Below 35,Falling object,3,Georgia,Medical Claim,Day,Security,844,Sun,12,2020
+27-Dec-20,Legs,Male,Below 60,Burn,4,Illinois,First Aid,Day,Security,2466,Sun,12,2020
+30-Dec-20,Trunk,Male,Below 45,Burn,1,Ohio,Medical Claim,Afternoon,Purchasing,2462,Wed,12,2020
+30-Dec-20,Trunk,Male,Below 35,Fall,1,Montana,Medical Claim,Day,Finishing,1177,Wed,12,2020
+31-Dec-20,Abdomen,Male,Below 25,Burn,2,Florida,Lost Time,Day,Finishing,2178,Thu,12,2020
+3-Jan-21,Arms,Female,Below 45,Crush & Pinch,5,Alabama,Medical Claim,Afternoon,Finishing,2030,Sun,1,2021
+3-Jan-21,Abdomen,Female,Below 35,Crush & Pinch,5,Georgia,Medical Claim,Afternoon,Painting,2391,Sun,1,2021
+6-Jan-21,Arms,Male,Below 45,Vehicle,3,Florida,Medical Claim,Day,Fabrication,4820,Wed,1,2021
+7-Jan-21,Arms,Male,Below 35,Cut,3,Iowa,Medical Claim,Afternoon,Finishing,1661,Thu,1,2021
+8-Jan-21,Trunk,Male,Below 25,Falling object,5,Florida,Near Miss,Afternoon,Painting,956,Fri,1,2021
+8-Jan-21,Back,Male,Below 35,Slip/trip,3,Illinois,Near Miss,Night,Maintenance,679,Fri,1,2021
+8-Jan-21,Legs,Male,Below 35,Lifting,3,Texas,Lost Time,Afternoon,Administration,1360,Fri,1,2021
+11-Jan-21,Trunk,Male,Below 25,Fall,1,Florida,Medical Claim,Day,Administration,1161,Mon,1,2021
+13-Jan-21,Feet,Male,Below 35,Falling object,3,Florida,Lost Time,Night,Shipping,675,Wed,1,2021
+16-Jan-21,Back,Male,Below 60,Crush & Pinch,4,Alabama,Lost Time,Day,Administration,2467,Sat,1,2021
+19-Jan-21,Trunk,Male,Below 35,Lifting,3,Florida,Near Miss,Day,Administration,1156,Tue,1,2021
+23-Jan-21,Neck,Male,Below 45,Falling object,1,Iowa,First Aid,Afternoon,Painting,831,Sat,1,2021
+25-Jan-21,Head,Male,Below 25,Vehicle,5,Iowa,Medical Claim,Day,Melting,3069,Mon,1,2021
+26-Jan-21,Trunk,Male,Below 45,Burn,3,Texas,Medical Claim,Night,Administration,2168,Tue,1,2021
+27-Jan-21,Legs,Male,Below 45,Fall,2,Iowa,First Aid,Night,Shipping,1204,Wed,1,2021
+2-Feb-21,Feet,Male,Below 25,Fall,3,Illinois,Lost Time,Day,Purchasing,1206,Tue,2,2021
+2-Feb-21,Back,Female,Below 45,Vehicle,2,Alabama,Near Miss,Day,Painting,4574,Tue,2,2021
+3-Feb-21,Arms,Male,Below 60,Slip/trip,2,Illinois,Medical Claim,Day,Painting,1254,Wed,2,2021
+7-Feb-21,Neck,Male,Below 45,Burn,2,Ohio,Medical Claim,Night,Painting,2533,Sun,2,2021
+11-Feb-21,Legs,Male,Below 60,Cut,1,Iowa,Medical Claim,Afternoon,Painting,1971,Thu,2,2021
+11-Feb-21,Feet,Male,Below 35,Falling object,3,California,First Aid,Afternoon,Melting,780,Thu,2,2021
+13-Feb-21,Neck,Male,Below 35,Crush & Pinch,4,Alabama,Lost Time,Night,Shipping,2220,Sat,2,2021
+14-Feb-21,Trunk,Male,Below 35,Fall,1,Montana,Medical Claim,Night,Painting,1221,Sun,2,2021
+15-Feb-21,Feet,Male,Below 35,Fall,2,Illinois,Near Miss,Night,Fabrication,1294,Mon,2,2021
+18-Feb-21,Trunk,Male,Below 45,Fall,2,Illinois,Near Miss,Night,Melting,1040,Thu,2,2021
+18-Feb-21,Neck,Female,Below 25,Slip/trip,2,Florida,Near Miss,Night,Shipping,1304,Thu,2,2021
+19-Feb-21,Multiple,Male,Below 35,Crush & Pinch,2,California,First Aid,Night,Fabrication,2184,Fri,2,2021
+21-Feb-21,Multiple,Male,Below 45,Vehicle,3,Texas,Near Miss,Night,Finishing,3708,Sun,2,2021
+24-Feb-21,Trunk,Male,Below 45,Lifting,2,Ohio,Near Miss,Afternoon,Purchasing,1386,Wed,2,2021
+26-Feb-21,Arms,Male,Below 60,Slip/trip,2,Montana,Medical Claim,Day,Security,1364,Fri,2,2021
+28-Feb-21,Back,Male,Below 60,Slip/trip,4,Iowa,Near Miss,Afternoon,Purchasing,836,Sun,2,2021
+1-Mar-21,Arms,Male,Below 45,Lifting,3,Illinois,Near Miss,Day,Purchasing,1247,Mon,3,2021
+2-Mar-21,Abdomen,Male,Below 25,Equipment,1,Texas,Near Miss,Afternoon,Finishing,2597,Tue,3,2021
+4-Mar-21,Multiple,Male,Below 45,Slip/trip,5,Florida,First Aid,Afternoon,Maintenance,986,Thu,3,2021
+5-Mar-21,Back,Male,Below 60,Cut,5,Florida,Lost Time,Afternoon,Security,1772,Fri,3,2021
+5-Mar-21,Arms,Male,Below 45,Equipment,3,Iowa,First Aid,Night,Finishing,2530,Fri,3,2021
+11-Mar-21,Legs,Female,Below 25,Equipment,5,California,First Aid,Night,Painting,2809,Thu,3,2021
+12-Mar-21,Back,Male,Below 45,Slip/trip,4,Texas,Medical Claim,Night,Maintenance,528,Fri,3,2021
+14-Mar-21,Feet,Male,Below 35,Slip/trip,3,Illinois,Medical Claim,Day,Purchasing,1284,Sun,3,2021
+14-Mar-21,Neck,Male,Below 45,Fall,4,Georgia,Near Miss,Afternoon,Painting,1359,Sun,3,2021
+15-Mar-21,Arms,Male,Below 25,Vehicle,1,Illinois,Medical Claim,Night,Security,4408,Mon,3,2021
+17-Mar-21,Abdomen,Male,Below 25,Burn,3,Ohio,Lost Time,Afternoon,Maintenance,2481,Wed,3,2021
+17-Mar-21,Feet,Female,Below 25,Burn,3,Iowa,Lost Time,Day,Maintenance,2006,Wed,3,2021
+18-Mar-21,Head,Male,Below 45,Slip/trip,3,Montana,Lost Time,Afternoon,Shipping,920,Thu,3,2021
+19-Mar-21,Feet,Female,Below 35,Equipment,1,Alabama,First Aid,Afternoon,Melting,2707,Fri,3,2021
+22-Mar-21,Legs,Male,Below 25,Burn,5,Texas,Medical Claim,Night,Melting,2241,Mon,3,2021
+23-Mar-21,Feet,Male,Below 35,Lifting,1,Illinois,Medical Claim,Afternoon,Finishing,1229,Tue,3,2021
+31-Mar-21,Neck,Male,Below 45,Falling object,5,Texas,Near Miss,Day,Administration,833,Wed,3,2021
+31-Mar-21,Eye,Female,Below 45,Vehicle,1,Ohio,Lost Time,Night,Melting,3896,Wed,3,2021
+1-Apr-21,Back,Male,Below 45,Vehicle,2,Alabama,Medical Claim,Night,Fabrication,3993,Thu,4,2021
+1-Apr-21,Eye,Male,Below 35,Crush & Pinch,1,Illinois,Near Miss,Day,Shipping,2352,Thu,4,2021
+2-Apr-21,Back,Female,Below 45,Slip/trip,3,Ohio,First Aid,Night,Administration,1121,Fri,4,2021
+6-Apr-21,Feet,Male,Below 35,Equipment,2,Illinois,Lost Time,Day,Fabrication,2819,Tue,4,2021
+8-Apr-21,Arms,Male,Below 45,Cut,2,Iowa,Medical Claim,Night,Fabrication,1908,Thu,4,2021
+9-Apr-21,Feet,Male,Below 25,Lifting,5,Texas,Medical Claim,Day,Security,1213,Fri,4,2021
+11-Apr-21,Arms,Male,Below 35,Equipment,2,Illinois,Medical Claim,Night,Finishing,2752,Sun,4,2021
+13-Apr-21,Head,Male,Below 60,Vehicle,1,Georgia,Lost Time,Afternoon,Melting,4593,Tue,4,2021
+14-Apr-21,Trunk,Male,Below 25,Vehicle,2,Illinois,Lost Time,Afternoon,Security,3781,Wed,4,2021
+15-Apr-21,Eye,Female,Below 60,Burn,4,Illinois,Near Miss,Night,Administration,2191,Thu,4,2021
+16-Apr-21,Abdomen,Male,Below 35,Cut,4,California,First Aid,Night,Purchasing,1782,Fri,4,2021
+17-Apr-21,Legs,Male,Below 35,Lifting,3,Alabama,Medical Claim,Night,Administration,1159,Sat,4,2021
+20-Apr-21,Hands,Male,Below 45,Cut,3,Texas,Medical Claim,Day,Purchasing,1946,Tue,4,2021
+20-Apr-21,Feet,Male,Below 60,Crush & Pinch,2,Iowa,First Aid,Day,Painting,2351,Tue,4,2021
+21-Apr-21,Multiple,Male,Below 25,Falling object,2,Montana,Lost Time,Day,Melting,562,Wed,4,2021
+24-Apr-21,Hands,Male,Below 35,Cut,2,Florida,Lost Time,Day,Purchasing,1693,Sat,4,2021
+25-Apr-21,Arms,Male,Below 35,Falling object,2,Montana,Near Miss,Night,Purchasing,954,Sun,4,2021
+1-May-21,Back,Male,Below 60,Burn,3,Texas,Medical Claim,Afternoon,Painting,2183,Sat,5,2021
+4-May-21,Legs,Male,Below 60,Fall,3,Alabama,Lost Time,Day,Purchasing,1131,Tue,5,2021
+6-May-21,Multiple,Male,Below 45,Burn,4,Iowa,Medical Claim,Afternoon,Melting,2405,Thu,5,2021
+7-May-21,Arms,Male,Below 35,Cut,3,Georgia,Lost Time,Day,Administration,1541,Fri,5,2021
+8-May-21,Trunk,Male,Below 25,Falling object,3,Ohio,Near Miss,Day,Security,562,Sat,5,2021
+8-May-21,Hands,Male,Below 25,Falling object,1,Georgia,First Aid,Night,Maintenance,883,Sat,5,2021
+10-May-21,Arms,Male,Below 45,Cut,5,Montana,Near Miss,Afternoon,Melting,1697,Mon,5,2021
+12-May-21,Multiple,Male,Below 35,Vehicle,2,Ohio,Near Miss,Afternoon,Purchasing,4106,Wed,5,2021
+19-May-21,Feet,Female,Below 60,Equipment,3,Montana,Medical Claim,Afternoon,Shipping,2524,Wed,5,2021
+19-May-21,Abdomen,Male,Below 60,Falling object,4,California,Near Miss,Day,Melting,807,Wed,5,2021
+20-May-21,Head,Male,Below 25,Vehicle,3,Iowa,Near Miss,Afternoon,Painting,4601,Thu,5,2021
+20-May-21,Trunk,Male,Below 45,Fall,3,Georgia,First Aid,Night,Administration,1449,Thu,5,2021
+24-May-21,Head,Female,Below 45,Burn,2,Montana,Near Miss,Afternoon,Administration,2941,Mon,5,2021
+26-May-21,Feet,Male,Below 45,Fall,2,Montana,Near Miss,Afternoon,Painting,1392,Wed,5,2021
+26-May-21,Feet,Male,Below 35,Cut,4,Ohio,Medical Claim,Night,Security,1768,Wed,5,2021
+29-May-21,Neck,Male,Below 25,Crush & Pinch,3,Iowa,Lost Time,Afternoon,Finishing,2295,Sat,5,2021
+30-May-21,Feet,Male,Below 25,Vehicle,1,California,First Aid,Afternoon,Melting,3022,Sun,5,2021
+1-Jun-21,Trunk,Male,Below 60,Cut,2,Georgia,Near Miss,Day,Security,1964,Tue,6,2021
+1-Jun-21,Neck,Male,Below 35,Vehicle,1,Ohio,Near Miss,Day,Fabrication,4957,Tue,6,2021
+2-Jun-21,Hands,Male,Below 35,Fall,3,Florida,Medical Claim,Night,Melting,1245,Wed,6,2021
+2-Jun-21,Feet,Male,Below 45,Lifting,1,California,Near Miss,Afternoon,Purchasing,1464,Wed,6,2021
+3-Jun-21,Abdomen,Female,Below 60,Vehicle,4,California,Lost Time,Afternoon,Security,3434,Thu,6,2021
+3-Jun-21,Multiple,Male,Below 60,Equipment,1,Texas,Lost Time,Afternoon,Painting,2710,Thu,6,2021
+6-Jun-21,Legs,Male,Below 60,Burn,2,Florida,Medical Claim,Day,Painting,2858,Sun,6,2021
+7-Jun-21,Eye,Male,Below 45,Fall,2,Illinois,First Aid,Day,Shipping,1192,Mon,6,2021
+8-Jun-21,Arms,Male,Below 35,Falling object,4,Alabama,Near Miss,Afternoon,Finishing,998,Tue,6,2021
+8-Jun-21,Feet,Male,Below 45,Equipment,4,Texas,First Aid,Night,Painting,2923,Tue,6,2021
+12-Jun-21,Back,Male,Below 45,Burn,4,Texas,Lost Time,Night,Purchasing,2614,Sat,6,2021
+12-Jun-21,Head,Male,Below 35,Cut,2,Texas,First Aid,Afternoon,Melting,1732,Sat,6,2021
+13-Jun-21,Trunk,Male,Below 45,Vehicle,4,Texas,Near Miss,Afternoon,Maintenance,3998,Sun,6,2021
+15-Jun-21,Back,Male,Below 35,Fall,5,California,Lost Time,Night,Administration,1482,Tue,6,2021
+17-Jun-21,Abdomen,Male,Below 35,Burn,4,Texas,Medical Claim,Night,Melting,2422,Thu,6,2021
+18-Jun-21,Eye,Male,Below 35,Cut,3,Texas,Lost Time,Afternoon,Maintenance,1747,Fri,6,2021
+18-Jun-21,Multiple,Male,Below 25,Burn,1,Montana,Medical Claim,Day,Painting,2108,Fri,6,2021
+18-Jun-21,Back,Male,Below 60,Crush & Pinch,3,Florida,Lost Time,Night,Security,2377,Fri,6,2021
+19-Jun-21,Hands,Male,Below 45,Lifting,5,Georgia,Medical Claim,Night,Maintenance,1057,Sat,6,2021
+21-Jun-21,Legs,Male,Below 25,Falling object,3,Georgia,Medical Claim,Day,Finishing,630,Mon,6,2021
+23-Jun-21,Arms,Male,Below 60,Lifting,5,Georgia,Near Miss,Day,Painting,1313,Wed,6,2021
+25-Jun-21,Abdomen,Male,Below 45,Burn,4,Alabama,Near Miss,Day,Painting,2393,Fri,6,2021
+26-Jun-21,Eye,Male,Below 60,Fall,3,Georgia,First Aid,Night,Finishing,1363,Sat,6,2021
+27-Jun-21,Eye,Male,Below 45,Falling object,1,Georgia,Lost Time,Day,Shipping,676,Sun,6,2021
+28-Jun-21,Head,Male,Below 35,Vehicle,3,Ohio,First Aid,Day,Fabrication,3011,Mon,6,2021
+29-Jun-21,Arms,Male,Below 25,Lifting,2,Iowa,Near Miss,Day,Painting,1301,Tue,6,2021
+4-Jul-21,Trunk,Male,Below 60,Falling object,2,Illinois,First Aid,Night,Administration,870,Sun,7,2021
+6-Jul-21,Head,Male,Below 35,Fall,3,Alabama,First Aid,Day,Maintenance,1367,Tue,7,2021
+7-Jul-21,Head,Male,Below 35,Lifting,2,Illinois,Medical Claim,Day,Shipping,1269,Wed,7,2021
+8-Jul-21,Abdomen,Male,Below 35,Crush & Pinch,4,Ohio,Lost Time,Afternoon,Maintenance,2239,Thu,7,2021
+8-Jul-21,Back,Male,Below 45,Fall,3,Montana,Medical Claim,Day,Painting,1272,Thu,7,2021
+11-Jul-21,Multiple,Male,Below 25,Burn,4,Florida,First Aid,Night,Maintenance,2895,Sun,7,2021
+12-Jul-21,Abdomen,Male,Below 45,Burn,1,Georgia,Near Miss,Day,Painting,2963,Mon,7,2021
+13-Jul-21,Trunk,Male,Below 45,Vehicle,4,California,Lost Time,Night,Finishing,3423,Tue,7,2021
+19-Jul-21,Feet,Male,Below 25,Falling object,2,Montana,Near Miss,Afternoon,Administration,579,Mon,7,2021
+20-Jul-21,Back,Male,Below 25,Crush & Pinch,3,Montana,Medical Claim,Night,Melting,2316,Tue,7,2021
+21-Jul-21,Hands,Male,Below 45,Crush & Pinch,4,Iowa,Lost Time,Day,Administration,2102,Wed,7,2021
+22-Jul-21,Multiple,Male,Below 25,Fall,4,Ohio,Medical Claim,Afternoon,Melting,1443,Thu,7,2021
+25-Jul-21,Hands,Male,Below 35,Equipment,3,Alabama,Lost Time,Day,Security,2948,Sun,7,2021
+25-Jul-21,Head,Male,Below 35,Lifting,5,Ohio,Lost Time,Night,Fabrication,1081,Sun,7,2021
+31-Jul-21,Abdomen,Male,Below 60,Equipment,1,Georgia,First Aid,Day,Security,2978,Sat,7,2021
+2-Aug-21,Arms,Male,Below 60,Vehicle,1,Montana,Medical Claim,Day,Maintenance,3808,Mon,8,2021
+3-Aug-21,Abdomen,Male,Below 60,Slip/trip,4,Montana,Medical Claim,Afternoon,Finishing,626,Tue,8,2021
+7-Aug-21,Arms,Male,Below 25,Falling object,2,California,First Aid,Afternoon,Melting,668,Sat,8,2021
+7-Aug-21,Neck,Male,Below 35,Falling object,4,Ohio,Lost Time,Afternoon,Fabrication,589,Sat,8,2021
+10-Aug-21,Feet,Male,Below 60,Cut,4,Florida,Near Miss,Day,Administration,1834,Tue,8,2021
+12-Aug-21,Trunk,Male,Below 60,Falling object,1,Ohio,Near Miss,Night,Fabrication,832,Thu,8,2021
+13-Aug-21,Abdomen,Male,Below 35,Equipment,1,Ohio,First Aid,Afternoon,Security,2855,Fri,8,2021
+16-Aug-21,Hands,Male,Below 60,Vehicle,4,Florida,Lost Time,Day,Security,4336,Mon,8,2021
+18-Aug-21,Trunk,Male,Below 45,Cut,5,Georgia,Lost Time,Night,Shipping,1621,Wed,8,2021
+19-Aug-21,Head,Female,Below 45,Slip/trip,1,Texas,Near Miss,Day,Painting,1145,Thu,8,2021
+21-Aug-21,Abdomen,Male,Below 45,Crush & Pinch,5,Alabama,Lost Time,Afternoon,Painting,2090,Sat,8,2021
+22-Aug-21,Legs,Male,Below 35,Fall,2,Ohio,Near Miss,Night,Melting,1054,Sun,8,2021
+22-Aug-21,Back,Male,Below 25,Vehicle,2,Illinois,Lost Time,Day,Security,3398,Sun,8,2021
+22-Aug-21,Arms,Male,Below 35,Vehicle,1,Illinois,Near Miss,Afternoon,Maintenance,4863,Sun,8,2021
+23-Aug-21,Eye,Male,Below 35,Burn,4,Georgia,Lost Time,Day,Security,2060,Mon,8,2021
+24-Aug-21,Head,Female,Below 35,Burn,2,Texas,Near Miss,Afternoon,Maintenance,2536,Tue,8,2021
+29-Aug-21,Multiple,Male,Below 45,Lifting,5,Georgia,Near Miss,Afternoon,Melting,1293,Sun,8,2021
+29-Aug-21,Multiple,Male,Below 60,Equipment,5,Illinois,First Aid,Afternoon,Finishing,2579,Sun,8,2021
+1-Sep-21,Arms,Male,Below 35,Cut,4,Ohio,First Aid,Day,Security,1636,Wed,9,2021
+3-Sep-21,Eye,Male,Below 60,Cut,3,Georgia,Medical Claim,Afternoon,Shipping,1671,Fri,9,2021
+3-Sep-21,Multiple,Male,Below 25,Falling object,5,Iowa,Near Miss,Day,Fabrication,551,Fri,9,2021
+6-Sep-21,Legs,Female,Below 35,Falling object,2,Texas,Medical Claim,Day,Finishing,872,Mon,9,2021
+10-Sep-21,Feet,Male,Below 60,Falling object,2,Illinois,Near Miss,Day,Maintenance,648,Fri,9,2021
+11-Sep-21,Back,Male,Below 60,Burn,3,Montana,First Aid,Afternoon,Finishing,2910,Sat,9,2021
+15-Sep-21,Eye,Male,Below 35,Equipment,2,Illinois,Near Miss,Night,Security,2576,Wed,9,2021
+17-Sep-21,Legs,Male,Below 35,Crush & Pinch,1,Georgia,Lost Time,Night,Purchasing,2041,Fri,9,2021
+18-Sep-21,Trunk,Male,Below 35,Slip/trip,3,Georgia,Lost Time,Day,Shipping,651,Sat,9,2021
+19-Sep-21,Head,Male,Below 35,Lifting,1,Georgia,Medical Claim,Day,Shipping,1294,Sun,9,2021
+20-Sep-21,Abdomen,Male,Below 45,Falling object,3,Florida,Near Miss,Night,Shipping,910,Mon,9,2021
+24-Sep-21,Abdomen,Male,Below 60,Cut,1,Texas,Medical Claim,Day,Shipping,1974,Fri,9,2021
+28-Sep-21,Hands,Female,Below 35,Cut,2,California,First Aid,Night,Purchasing,1870,Tue,9,2021
+29-Sep-21,Legs,Male,Below 35,Vehicle,4,Georgia,First Aid,Afternoon,Purchasing,4465,Wed,9,2021
+1-Oct-21,Trunk,Male,Below 35,Falling object,2,Alabama,Medical Claim,Afternoon,Painting,624,Fri,10,2021
+1-Oct-21,Multiple,Female,Below 45,Vehicle,5,Montana,Near Miss,Afternoon,Painting,3585,Fri,10,2021
+5-Oct-21,Feet,Male,Below 35,Vehicle,4,Florida,Lost Time,Day,Fabrication,3301,Tue,10,2021
+10-Oct-21,Head,Male,Below 35,Crush & Pinch,4,California,First Aid,Afternoon,Purchasing,2049,Sun,10,2021
+13-Oct-21,Feet,Male,Below 35,Falling object,2,Florida,Medical Claim,Afternoon,Melting,886,Wed,10,2021
+14-Oct-21,Hands,Male,Below 60,Lifting,3,Montana,Near Miss,Afternoon,Melting,1477,Thu,10,2021
+14-Oct-21,Multiple,Male,Below 45,Crush & Pinch,2,Texas,First Aid,Day,Melting,2438,Thu,10,2021
+15-Oct-21,Feet,Female,Below 45,Equipment,3,Texas,Lost Time,Afternoon,Painting,2814,Fri,10,2021
+16-Oct-21,Trunk,Male,Below 60,Vehicle,4,California,Lost Time,Day,Melting,3472,Sat,10,2021
+17-Oct-21,Legs,Male,Below 60,Cut,2,Montana,Near Miss,Afternoon,Security,1663,Sun,10,2021
+19-Oct-21,Legs,Male,Below 25,Fall,3,Montana,First Aid,Day,Security,1315,Tue,10,2021
+19-Oct-21,Legs,Male,Below 25,Cut,1,Montana,Medical Claim,Night,Shipping,1605,Tue,10,2021
+23-Oct-21,Neck,Male,Below 45,Lifting,2,Iowa,First Aid,Day,Shipping,1472,Sat,10,2021
+23-Oct-21,Feet,Male,Below 25,Lifting,3,Texas,Medical Claim,Day,Finishing,1023,Sat,10,2021
+26-Oct-21,Multiple,Male,Below 35,Fall,5,California,Near Miss,Day,Shipping,1282,Tue,10,2021
+28-Oct-21,Trunk,Male,Below 60,Lifting,5,Illinois,First Aid,Day,Security,1145,Thu,10,2021
+30-Oct-21,Head,Male,Below 60,Cut,2,Illinois,Near Miss,Day,Shipping,1674,Sat,10,2021
+2-Nov-21,Abdomen,Male,Below 60,Cut,2,Florida,Near Miss,Day,Shipping,1925,Tue,11,2021
+6-Nov-21,Neck,Male,Below 45,Cut,1,California,Medical Claim,Night,Shipping,1783,Sat,11,2021
+9-Nov-21,Hands,Male,Below 45,Slip/trip,5,Iowa,Lost Time,Night,Melting,1407,Tue,11,2021
+10-Nov-21,Feet,Male,Below 60,Equipment,1,California,Lost Time,Day,Administration,2977,Wed,11,2021
+12-Nov-21,Head,Male,Below 45,Vehicle,4,Illinois,Lost Time,Afternoon,Melting,4325,Fri,11,2021
+14-Nov-21,Hands,Female,Below 60,Cut,2,California,Lost Time,Afternoon,Painting,1720,Sun,11,2021
+15-Nov-21,Back,Male,Below 60,Slip/trip,3,Florida,First Aid,Day,Maintenance,1325,Mon,11,2021
+15-Nov-21,Arms,Male,Below 60,Slip/trip,2,Georgia,Medical Claim,Night,Painting,898,Mon,11,2021
+16-Nov-21,Hands,Male,Below 45,Crush & Pinch,4,Iowa,Medical Claim,Day,Melting,2495,Tue,11,2021
+17-Nov-21,Back,Female,Below 25,Fall,2,Ohio,Near Miss,Afternoon,Purchasing,1372,Wed,11,2021
+21-Nov-21,Feet,Male,Below 60,Slip/trip,4,Alabama,Medical Claim,Day,Fabrication,1421,Sun,11,2021
+22-Nov-21,Back,Male,Below 60,Vehicle,3,Georgia,Medical Claim,Night,Maintenance,3110,Mon,11,2021
+23-Nov-21,Trunk,Male,Below 60,Lifting,4,Ohio,First Aid,Afternoon,Shipping,1107,Tue,11,2021
+24-Nov-21,Multiple,Male,Below 35,Falling object,5,Alabama,Medical Claim,Night,Finishing,575,Wed,11,2021
+26-Nov-21,Hands,Male,Below 25,Cut,1,Ohio,Near Miss,Night,Shipping,1893,Fri,11,2021
+28-Nov-21,Eye,Female,Below 25,Fall,2,Alabama,First Aid,Day,Administration,1240,Sun,11,2021
+30-Nov-21,Multiple,Male,Below 45,Slip/trip,3,Florida,Lost Time,Night,Administration,1106,Tue,11,2021
+3-Dec-21,Feet,Female,Below 60,Lifting,5,Florida,Near Miss,Day,Purchasing,1004,Fri,12,2021
+4-Dec-21,Arms,Male,Below 25,Fall,4,Montana,Near Miss,Night,Melting,1490,Sat,12,2021
+6-Dec-21,Head,Male,Below 35,Lifting,3,California,Medical Claim,Night,Purchasing,1451,Mon,12,2021
+6-Dec-21,Abdomen,Male,Below 25,Fall,5,Georgia,Lost Time,Night,Melting,1224,Mon,12,2021
+8-Dec-21,Hands,Male,Below 45,Vehicle,4,Texas,First Aid,Afternoon,Painting,4687,Wed,12,2021
+17-Dec-21,Feet,Male,Below 60,Cut,1,Alabama,First Aid,Day,Finishing,1785,Fri,12,2021
+20-Dec-21,Back,Male,Below 35,Lifting,4,Iowa,Medical Claim,Day,Purchasing,1360,Mon,12,2021
+22-Dec-21,Legs,Male,Below 25,Lifting,2,Florida,Near Miss,Day,Administration,1268,Wed,12,2021
+23-Dec-21,Head,Male,Below 25,Equipment,5,California,Medical Claim,Day,Maintenance,2942,Thu,12,2021
+28-Dec-21,Head,Male,Below 60,Equipment,1,Alabama,First Aid,Night,Painting,2634,Tue,12,2021
+29-Dec-21,Back,Male,Below 35,Cut,5,Illinois,Near Miss,Night,Finishing,1553,Wed,12,2021
+2-Jan-22,Multiple,Male,Below 35,Equipment,3,Florida,Lost Time,Afternoon,Maintenance,2761,Sun,1,2022
+3-Jan-22,Head,Male,Below 25,Fall,3,California,Near Miss,Night,Security,1127,Mon,1,2022
+4-Jan-22,Hands,Male,Below 35,Slip/trip,5,Iowa,Near Miss,Afternoon,Painting,685,Tue,1,2022
+4-Jan-22,Back,Male,Below 45,Crush & Pinch,1,Iowa,Lost Time,Night,Fabrication,2421,Tue,1,2022
+8-Jan-22,Back,Male,Below 60,Cut,2,Texas,First Aid,Day,Purchasing,1929,Sat,1,2022
+9-Jan-22,Back,Female,Below 45,Lifting,3,Alabama,Lost Time,Night,Security,1284,Sun,1,2022
+12-Jan-22,Hands,Male,Below 25,Equipment,3,Texas,Near Miss,Day,Painting,2751,Wed,1,2022
+14-Jan-22,Back,Male,Below 35,Burn,5,Illinois,Near Miss,Night,Shipping,2478,Fri,1,2022
+15-Jan-22,Feet,Male,Below 35,Cut,1,Alabama,Medical Claim,Day,Security,1612,Sat,1,2022
+16-Jan-22,Feet,Male,Below 45,Slip/trip,5,Illinois,First Aid,Day,Maintenance,1475,Sun,1,2022
+16-Jan-22,Neck,Male,Below 25,Slip/trip,4,Montana,Near Miss,Night,Purchasing,1267,Sun,1,2022
+19-Jan-22,Back,Male,Below 25,Burn,5,Alabama,Lost Time,Day,Security,2906,Wed,1,2022
+19-Jan-22,Back,Male,Below 25,Burn,5,Florida,Lost Time,Day,Painting,2629,Wed,1,2022
+20-Jan-22,Multiple,Male,Below 25,Equipment,5,Iowa,First Aid,Night,Administration,2574,Thu,1,2022
+21-Jan-22,Eye,Male,Below 25,Burn,2,Alabama,Medical Claim,Afternoon,Purchasing,2590,Fri,1,2022
+22-Jan-22,Head,Male,Below 45,Fall,3,Georgia,First Aid,Afternoon,Purchasing,1275,Sat,1,2022
+27-Jan-22,Hands,Male,Below 45,Falling object,3,Ohio,Medical Claim,Night,Administration,585,Thu,1,2022
+28-Jan-22,Legs,Male,Below 60,Vehicle,2,Florida,Near Miss,Day,Finishing,4806,Fri,1,2022
+28-Jan-22,Legs,Male,Below 45,Lifting,5,Florida,Lost Time,Afternoon,Melting,1335,Fri,1,2022
+30-Jan-22,Eye,Female,Below 25,Equipment,5,Ohio,Lost Time,Day,Shipping,2534,Sun,1,2022
+2-Feb-22,Multiple,Male,Below 25,Falling object,2,Texas,Near Miss,Afternoon,Fabrication,502,Wed,2,2022
+2-Feb-22,Back,Male,Below 25,Falling object,3,Alabama,Lost Time,Night,Security,680,Wed,2,2022
+6-Feb-22,Multiple,Male,Below 35,Vehicle,1,Georgia,Medical Claim,Afternoon,Security,3599,Sun,2,2022
+7-Feb-22,Abdomen,Male,Below 25,Vehicle,1,Georgia,First Aid,Day,Shipping,4308,Mon,2,2022
+8-Feb-22,Head,Male,Below 35,Crush & Pinch,5,Georgia,Near Miss,Night,Security,2190,Tue,2,2022
+8-Feb-22,Back,Male,Below 60,Cut,4,Georgia,Lost Time,Night,Fabrication,1679,Tue,2,2022
+9-Feb-22,Feet,Male,Below 60,Cut,2,Texas,Lost Time,Night,Finishing,1842,Wed,2,2022
+9-Feb-22,Back,Male,Below 60,Fall,5,Illinois,First Aid,Night,Security,1314,Wed,2,2022
+10-Feb-22,Multiple,Male,Below 25,Lifting,3,Iowa,Medical Claim,Afternoon,Administration,1097,Thu,2,2022
+11-Feb-22,Hands,Male,Below 60,Vehicle,2,Georgia,Near Miss,Night,Security,3604,Fri,2,2022
+14-Feb-22,Multiple,Male,Below 35,Lifting,5,Texas,First Aid,Night,Fabrication,1316,Mon,2,2022
+14-Feb-22,Multiple,Male,Below 25,Falling object,3,Montana,Lost Time,Afternoon,Painting,830,Mon,2,2022
+15-Feb-22,Trunk,Male,Below 25,Slip/trip,4,Iowa,Lost Time,Night,Painting,1164,Tue,2,2022
+22-Feb-22,Multiple,Male,Below 35,Vehicle,4,Alabama,Medical Claim,Night,Shipping,3885,Tue,2,2022
+23-Feb-22,Eye,Female,Below 35,Crush & Pinch,5,Iowa,Lost Time,Afternoon,Purchasing,2439,Wed,2,2022
+24-Feb-22,Arms,Male,Below 25,Fall,5,California,Lost Time,Night,Melting,1443,Thu,2,2022
+24-Feb-22,Back,Male,Below 60,Burn,5,Texas,Near Miss,Night,Administration,2428,Thu,2,2022
+26-Feb-22,Multiple,Female,Below 45,Cut,3,Ohio,Medical Claim,Night,Purchasing,1624,Sat,2,2022
+27-Feb-22,Multiple,Male,Below 25,Lifting,2,Illinois,First Aid,Night,Shipping,1485,Sun,2,2022
+28-Feb-22,Head,Male,Below 35,Falling object,4,Montana,First Aid,Night,Security,972,Mon,2,2022
+3-Mar-22,Neck,Male,Below 25,Vehicle,1,Texas,Lost Time,Afternoon,Finishing,3115,Thu,3,2022
+12-Mar-22,Hands,Male,Below 35,Vehicle,1,Illinois,Near Miss,Afternoon,Security,3041,Sat,3,2022
+12-Mar-22,Feet,Male,Below 25,Equipment,1,Alabama,Lost Time,Afternoon,Shipping,2659,Sat,3,2022
+15-Mar-22,Legs,Male,Below 45,Crush & Pinch,3,Texas,Lost Time,Day,Maintenance,2448,Tue,3,2022
+17-Mar-22,Back,Male,Below 60,Cut,5,Illinois,First Aid,Night,Painting,1891,Thu,3,2022
+22-Mar-22,Head,Male,Below 60,Cut,2,Alabama,First Aid,Afternoon,Finishing,1565,Tue,3,2022
+22-Mar-22,Head,Male,Below 25,Slip/trip,5,California,Medical Claim,Night,Finishing,1304,Tue,3,2022
+25-Mar-22,Back,Male,Below 60,Slip/trip,5,Ohio,Lost Time,Afternoon,Maintenance,1345,Fri,3,2022
+26-Mar-22,Eye,Male,Below 45,Slip/trip,4,Texas,Medical Claim,Day,Shipping,1009,Sat,3,2022
+28-Mar-22,Eye,Male,Below 25,Fall,3,Montana,First Aid,Night,Fabrication,1179,Mon,3,2022
+1-Apr-22,Head,Male,Below 60,Fall,3,Iowa,Lost Time,Day,Shipping,1278,Fri,4,2022
+1-Apr-22,Eye,Male,Below 45,Equipment,2,California,Medical Claim,Night,Painting,2691,Fri,4,2022
+3-Apr-22,Legs,Male,Below 25,Equipment,5,Montana,Lost Time,Night,Security,2618,Sun,4,2022
+4-Apr-22,Back,Male,Below 25,Lifting,1,Florida,Lost Time,Day,Maintenance,1265,Mon,4,2022
+6-Apr-22,Back,Male,Below 35,Fall,2,Montana,First Aid,Afternoon,Finishing,1076,Wed,4,2022
+7-Apr-22,Arms,Male,Below 35,Fall,3,Florida,Medical Claim,Day,Finishing,1496,Thu,4,2022
+7-Apr-22,Legs,Male,Below 25,Equipment,1,Florida,Near Miss,Night,Purchasing,2870,Thu,4,2022
+8-Apr-22,Arms,Male,Below 25,Lifting,2,Montana,Near Miss,Afternoon,Maintenance,1150,Fri,4,2022
+8-Apr-22,Arms,Male,Below 35,Slip/trip,2,Ohio,Medical Claim,Afternoon,Shipping,548,Fri,4,2022
+12-Apr-22,Abdomen,Male,Below 35,Burn,2,California,Lost Time,Afternoon,Administration,2017,Tue,4,2022
+17-Apr-22,Feet,Male,Below 25,Falling object,3,Montana,First Aid,Day,Melting,971,Sun,4,2022
+20-Apr-22,Arms,Male,Below 45,Vehicle,3,Georgia,Near Miss,Night,Maintenance,4787,Wed,4,2022
+24-Apr-22,Abdomen,Male,Below 60,Crush & Pinch,5,Alabama,Medical Claim,Afternoon,Fabrication,2103,Sun,4,2022
+24-Apr-22,Eye,Male,Below 60,Slip/trip,5,Iowa,Near Miss,Day,Shipping,958,Sun,4,2022
+27-Apr-22,Feet,Male,Below 45,Slip/trip,5,Texas,Medical Claim,Day,Administration,1039,Wed,4,2022
+27-Apr-22,Back,Male,Below 60,Fall,3,Texas,First Aid,Night,Security,1223,Wed,4,2022
+29-Apr-22,Head,Male,Below 45,Slip/trip,4,Ohio,Near Miss,Night,Shipping,766,Fri,4,2022
+3-May-22,Back,Female,Below 35,Vehicle,5,Illinois,Medical Claim,Afternoon,Administration,4773,Tue,5,2022
+6-May-22,Head,Male,Below 60,Burn,1,Montana,Near Miss,Day,Fabrication,2136,Fri,5,2022
+7-May-22,Hands,Male,Below 25,Vehicle,3,Alabama,Near Miss,Afternoon,Melting,3649,Sat,5,2022
+8-May-22,Eye,Male,Below 35,Slip/trip,4,Montana,First Aid,Day,Shipping,757,Sun,5,2022
+11-May-22,Eye,Male,Below 60,Fall,4,Iowa,First Aid,Afternoon,Security,1152,Wed,5,2022
+16-May-22,Head,Male,Below 35,Falling object,4,Florida,Lost Time,Night,Maintenance,558,Mon,5,2022
+17-May-22,Head,Male,Below 45,Equipment,4,Montana,First Aid,Afternoon,Administration,2572,Tue,5,2022
+19-May-22,Feet,Male,Below 35,Cut,5,Georgia,Near Miss,Day,Finishing,1983,Thu,5,2022
+23-May-22,Back,Male,Below 35,Burn,1,Florida,Medical Claim,Day,Melting,2056,Mon,5,2022
+26-May-22,Multiple,Male,Below 35,Cut,5,Florida,Medical Claim,Night,Fabrication,1904,Thu,5,2022
+27-May-22,Eye,Male,Below 60,Equipment,2,Georgia,First Aid,Afternoon,Administration,2838,Fri,5,2022
+30-May-22,Feet,Male,Below 60,Burn,4,Illinois,Lost Time,Night,Painting,2449,Mon,5,2022
+31-May-22,Feet,Male,Below 45,Fall,2,California,Medical Claim,Afternoon,Painting,1396,Tue,5,2022
+3-Jun-22,Back,Male,Below 35,Lifting,4,Alabama,Near Miss,Afternoon,Maintenance,1178,Fri,6,2022
+3-Jun-22,Trunk,Male,Below 45,Equipment,5,California,First Aid,Day,Maintenance,2700,Fri,6,2022
+3-Jun-22,Legs,Male,Below 35,Burn,4,Georgia,Medical Claim,Afternoon,Finishing,2171,Fri,6,2022
+5-Jun-22,Back,Male,Below 25,Slip/trip,1,Iowa,Near Miss,Day,Purchasing,1357,Sun,6,2022
+7-Jun-22,Abdomen,Male,Below 35,Crush & Pinch,3,California,Near Miss,Day,Shipping,2419,Tue,6,2022
+10-Jun-22,Multiple,Female,Below 35,Slip/trip,1,Florida,Medical Claim,Day,Administration,671,Fri,6,2022
+25-Jun-22,Feet,Male,Below 45,Burn,5,Iowa,Medical Claim,Day,Purchasing,2104,Sat,6,2022
+26-Jun-22,Head,Female,Below 45,Crush & Pinch,5,California,First Aid,Night,Administration,2079,Sun,6,2022
+27-Jun-22,Hands,Male,Below 60,Lifting,1,Florida,Near Miss,Afternoon,Melting,1089,Mon,6,2022
+28-Jun-22,Hands,Male,Below 60,Cut,4,Florida,Near Miss,Afternoon,Purchasing,1820,Tue,6,2022
+28-Jun-22,Trunk,Male,Below 25,Falling object,4,Florida,Medical Claim,Night,Administration,984,Tue,6,2022
+28-Jun-22,Hands,Male,Below 45,Vehicle,2,Texas,Medical Claim,Afternoon,Melting,3551,Tue,6,2022
